@@ -1,0 +1,1473 @@
+07/11/2020 03:56:09 PM - LoginPage - INFO: Element found with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] and  locatorType: xpath
+07/11/2020 03:56:09 PM - LoginPage - INFO: Clicked on element with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] locatorType: xpath
+07/11/2020 03:56:09 PM - LoginPage - INFO: Element found with locator: //input[@id='login_field'] and  locatorType: xpath
+07/11/2020 03:56:09 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='login_field'] locatorType: xpath
+07/11/2020 03:56:09 PM - LoginPage - INFO: Element found with locator: //input[@id='password'] and  locatorType: xpath
+07/11/2020 03:56:09 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='password'] locatorType: xpath
+07/11/2020 03:56:09 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/11/2020 03:56:12 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/11/2020 03:56:12 PM - ClickNewRepo - INFO: Element found with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] and  locatorType: xpath
+07/11/2020 03:56:13 PM - ClickNewRepo - INFO: Clicked on element with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] locatorType: xpath
+07/11/2020 03:56:13 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_name'] and  locatorType: xpath
+07/11/2020 03:56:13 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_name'] locatorType: xpath
+07/11/2020 03:56:13 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_description'] and  locatorType: xpath
+07/11/2020 03:56:14 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_description'] locatorType: xpath
+07/11/2020 03:56:14 PM - CreateNewRepo - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/11/2020 03:56:14 PM - CreateNewRepo - INFO: Element appeared on the web page
+07/11/2020 03:56:14 PM - CreateNewRepo - INFO: Element found with locator: //button[@class='btn btn-primary first-in-line'] and  locatorType: xpath
+07/11/2020 03:56:16 PM - CreateNewRepo - INFO: Clicked on element with locator: //button[@class='btn btn-primary first-in-line'] locatorType: xpath
+07/11/2020 03:56:16 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 03:56:18 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 03:56:18 PM - ToolbarNav - INFO: Element found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 03:56:19 PM - ToolbarNav - INFO: Clicked on element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 03:56:19 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 03:56:19 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 03:56:19 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 03:56:19 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 03:56:19 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 03:56:22 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 04:09:20 PM - LoginPage - INFO: Element found with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] and  locatorType: xpath
+07/11/2020 04:09:21 PM - LoginPage - INFO: Clicked on element with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] locatorType: xpath
+07/11/2020 04:09:21 PM - LoginPage - INFO: Element found with locator: //input[@id='login_field'] and  locatorType: xpath
+07/11/2020 04:09:21 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='login_field'] locatorType: xpath
+07/11/2020 04:09:21 PM - LoginPage - INFO: Element found with locator: //input[@id='password'] and  locatorType: xpath
+07/11/2020 04:09:21 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='password'] locatorType: xpath
+07/11/2020 04:09:21 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/11/2020 04:09:22 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/11/2020 04:09:22 PM - ClickNewRepo - INFO: Element found with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] and  locatorType: xpath
+07/11/2020 04:09:23 PM - ClickNewRepo - INFO: Clicked on element with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] locatorType: xpath
+07/11/2020 04:09:23 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_name'] and  locatorType: xpath
+07/11/2020 04:09:24 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_name'] locatorType: xpath
+07/11/2020 04:09:24 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_description'] and  locatorType: xpath
+07/11/2020 04:09:24 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_description'] locatorType: xpath
+07/11/2020 04:09:24 PM - CreateNewRepo - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/11/2020 04:09:24 PM - CreateNewRepo - INFO: Element appeared on the web page
+07/11/2020 04:09:24 PM - CreateNewRepo - INFO: Element found with locator: //button[@class='btn btn-primary first-in-line'] and  locatorType: xpath
+07/11/2020 04:09:27 PM - CreateNewRepo - INFO: Clicked on element with locator: //button[@class='btn btn-primary first-in-line'] locatorType: xpath
+07/11/2020 04:09:27 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 04:09:28 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 04:09:28 PM - ToolbarNav - INFO: Element found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 04:09:29 PM - ToolbarNav - INFO: Clicked on element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 04:09:29 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 04:09:29 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 04:09:29 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 04:09:30 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 04:09:30 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 04:09:31 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 04:09:31 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='js-issue-title'] and  locatorType: xpath
+07/11/2020 04:09:31 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 04:09:31 PM - CreateNewIssue - INFO: The text is :: 'git_title19'
+07/11/2020 04:09:31 PM - CreateNewIssue - INFO: Element found with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] and  locatorType: xpath
+07/11/2020 04:09:33 PM - CreateNewIssue - INFO: Clicked on element with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] locatorType: xpath
+07/11/2020 04:09:33 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 04:09:33 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 04:09:33 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 04:09:33 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 04:09:33 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 04:09:35 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 04:18:00 PM - LoginPage - INFO: Element found with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] and  locatorType: xpath
+07/11/2020 04:18:01 PM - LoginPage - INFO: Clicked on element with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] locatorType: xpath
+07/11/2020 04:18:01 PM - LoginPage - INFO: Element found with locator: //input[@id='login_field'] and  locatorType: xpath
+07/11/2020 04:18:01 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='login_field'] locatorType: xpath
+07/11/2020 04:18:01 PM - LoginPage - INFO: Element found with locator: //input[@id='password'] and  locatorType: xpath
+07/11/2020 04:18:01 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='password'] locatorType: xpath
+07/11/2020 04:18:01 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/11/2020 04:18:03 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/11/2020 04:18:03 PM - ClickNewRepo - INFO: Element found with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] and  locatorType: xpath
+07/11/2020 04:18:04 PM - ClickNewRepo - INFO: Clicked on element with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] locatorType: xpath
+07/11/2020 04:18:04 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_name'] and  locatorType: xpath
+07/11/2020 04:18:05 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_name'] locatorType: xpath
+07/11/2020 04:18:05 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_description'] and  locatorType: xpath
+07/11/2020 04:18:05 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_description'] locatorType: xpath
+07/11/2020 04:18:05 PM - CreateNewRepo - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/11/2020 04:18:05 PM - CreateNewRepo - INFO: Element appeared on the web page
+07/11/2020 04:18:05 PM - CreateNewRepo - INFO: Element found with locator: //button[@class='btn btn-primary first-in-line'] and  locatorType: xpath
+07/11/2020 04:18:08 PM - CreateNewRepo - INFO: Clicked on element with locator: //button[@class='btn btn-primary first-in-line'] locatorType: xpath
+07/11/2020 04:18:08 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 04:18:08 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 04:18:08 PM - ToolbarNav - INFO: Element found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 04:18:10 PM - ToolbarNav - INFO: Clicked on element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 04:18:10 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 04:18:10 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 04:18:10 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 04:18:10 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 04:18:10 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 04:18:12 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 04:18:12 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='js-issue-title'] and  locatorType: xpath
+07/11/2020 04:18:12 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 04:18:12 PM - CreateNewIssue - INFO: The text is :: 'git_title21'
+07/11/2020 04:18:12 PM - CreateNewIssue - INFO: Element found with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] and  locatorType: xpath
+07/11/2020 04:18:13 PM - CreateNewIssue - INFO: Clicked on element with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] locatorType: xpath
+07/11/2020 04:18:13 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 04:18:13 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 04:18:13 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 04:18:13 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 04:18:13 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 04:18:15 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 04:18:15 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 04:18:15 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 04:18:15 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 04:18:15 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 04:25:25 PM - LoginPage - INFO: Element found with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] and  locatorType: xpath
+07/11/2020 04:25:25 PM - LoginPage - INFO: Clicked on element with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] locatorType: xpath
+07/11/2020 04:25:25 PM - LoginPage - INFO: Element found with locator: //input[@id='login_field'] and  locatorType: xpath
+07/11/2020 04:25:25 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='login_field'] locatorType: xpath
+07/11/2020 04:25:25 PM - LoginPage - INFO: Element found with locator: //input[@id='password'] and  locatorType: xpath
+07/11/2020 04:25:25 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='password'] locatorType: xpath
+07/11/2020 04:25:25 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/11/2020 04:25:27 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/11/2020 04:25:27 PM - ClickNewRepo - INFO: Element found with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] and  locatorType: xpath
+07/11/2020 04:25:28 PM - ClickNewRepo - INFO: Clicked on element with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] locatorType: xpath
+07/11/2020 04:25:28 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_name'] and  locatorType: xpath
+07/11/2020 04:25:28 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_name'] locatorType: xpath
+07/11/2020 04:25:28 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_description'] and  locatorType: xpath
+07/11/2020 04:25:29 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_description'] locatorType: xpath
+07/11/2020 04:25:29 PM - CreateNewRepo - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/11/2020 04:25:29 PM - CreateNewRepo - INFO: Element appeared on the web page
+07/11/2020 04:25:29 PM - CreateNewRepo - INFO: Element found with locator: //button[@class='btn btn-primary first-in-line'] and  locatorType: xpath
+07/11/2020 04:25:32 PM - CreateNewRepo - INFO: Clicked on element with locator: //button[@class='btn btn-primary first-in-line'] locatorType: xpath
+07/11/2020 04:25:32 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 04:25:33 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 04:25:33 PM - ToolbarNav - INFO: Element found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 04:25:34 PM - ToolbarNav - INFO: Clicked on element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 04:25:34 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 04:25:34 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 04:25:34 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 04:25:34 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 04:25:34 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 04:25:36 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 04:25:36 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='js-issue-title'] and  locatorType: xpath
+07/11/2020 04:25:36 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 04:25:36 PM - CreateNewIssue - INFO: The text is :: 'git_title46'
+07/11/2020 04:25:36 PM - CreateNewIssue - INFO: Element found with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] and  locatorType: xpath
+07/11/2020 04:25:37 PM - CreateNewIssue - INFO: Clicked on element with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] locatorType: xpath
+07/11/2020 04:25:37 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 04:25:37 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 04:25:37 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 04:25:37 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 04:25:37 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 04:25:39 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 04:25:39 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 04:25:39 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 04:25:39 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 04:25:39 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 05:38:03 PM - LoginPage - INFO: Element found with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] and  locatorType: xpath
+07/11/2020 05:38:03 PM - LoginPage - INFO: Clicked on element with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] locatorType: xpath
+07/11/2020 05:38:03 PM - LoginPage - INFO: Element found with locator: //input[@id='login_field'] and  locatorType: xpath
+07/11/2020 05:38:03 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='login_field'] locatorType: xpath
+07/11/2020 05:38:03 PM - LoginPage - INFO: Element found with locator: //input[@id='password'] and  locatorType: xpath
+07/11/2020 05:38:03 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='password'] locatorType: xpath
+07/11/2020 05:38:04 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/11/2020 05:38:05 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/11/2020 05:38:05 PM - ClickNewRepo - INFO: Element found with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] and  locatorType: xpath
+07/11/2020 05:38:06 PM - ClickNewRepo - INFO: Clicked on element with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] locatorType: xpath
+07/11/2020 05:38:06 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_name'] and  locatorType: xpath
+07/11/2020 05:38:06 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_name'] locatorType: xpath
+07/11/2020 05:38:06 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_description'] and  locatorType: xpath
+07/11/2020 05:38:07 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_description'] locatorType: xpath
+07/11/2020 05:38:07 PM - CreateNewRepo - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/11/2020 05:38:08 PM - CreateNewRepo - INFO: Element appeared on the web page
+07/11/2020 05:38:08 PM - CreateNewRepo - INFO: Element found with locator: //button[@class='btn btn-primary first-in-line'] and  locatorType: xpath
+07/11/2020 05:38:10 PM - CreateNewRepo - INFO: Clicked on element with locator: //button[@class='btn btn-primary first-in-line'] locatorType: xpath
+07/11/2020 05:38:10 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 05:38:11 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 05:38:11 PM - ToolbarNav - INFO: Element found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 05:38:12 PM - ToolbarNav - INFO: Clicked on element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 05:38:13 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 05:38:13 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 05:38:13 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 05:38:13 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 05:38:13 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 05:38:15 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 05:38:15 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='js-issue-title'] and  locatorType: xpath
+07/11/2020 05:38:15 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 05:38:15 PM - CreateNewIssue - INFO: The text is :: 'git_title89'
+07/11/2020 05:38:15 PM - CreateNewIssue - INFO: Element found with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] and  locatorType: xpath
+07/11/2020 05:38:16 PM - CreateNewIssue - INFO: Clicked on element with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] locatorType: xpath
+07/11/2020 05:38:16 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 05:38:17 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 05:38:17 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 05:38:17 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 05:38:17 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 05:38:18 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 05:38:18 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 05:38:19 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 05:38:19 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 05:38:19 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 05:38:22 PM - CreateNewIssue - INFO: Element not found with locator: // a[contains(text(), 'creating a new file')] and  locatorType: xpath
+07/11/2020 05:38:22 PM - CreateNewIssue - INFO: Cannot click on the element with locator: // a[contains(text(), 'creating a new file')] locatorType: xpath
+07/11/2020 05:38:25 PM - CreateNewIssue - INFO: Element not found with locator: //input[@placeholder='Name your file…'] and  locatorType: xpath
+07/11/2020 05:38:25 PM - CreateNewIssue - INFO: Cannot send data on the element with locator: //input[@placeholder='Name your file…'] locatorType: xpath
+07/11/2020 05:38:28 PM - CreateNewIssue - INFO: Element not found with locator: //button[@id='submit-file'] and  locatorType: xpath
+07/11/2020 05:38:28 PM - CreateNewIssue - INFO: Cannot click on the element with locator: //button[@id='submit-file'] locatorType: xpath
+07/11/2020 05:39:44 PM - LoginPage - INFO: Element found with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] and  locatorType: xpath
+07/11/2020 05:39:44 PM - LoginPage - INFO: Clicked on element with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] locatorType: xpath
+07/11/2020 05:39:44 PM - LoginPage - INFO: Element found with locator: //input[@id='login_field'] and  locatorType: xpath
+07/11/2020 05:39:45 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='login_field'] locatorType: xpath
+07/11/2020 05:39:45 PM - LoginPage - INFO: Element found with locator: //input[@id='password'] and  locatorType: xpath
+07/11/2020 05:39:45 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='password'] locatorType: xpath
+07/11/2020 05:39:45 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/11/2020 05:39:47 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/11/2020 05:39:47 PM - ClickNewRepo - INFO: Element found with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] and  locatorType: xpath
+07/11/2020 05:39:48 PM - ClickNewRepo - INFO: Clicked on element with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] locatorType: xpath
+07/11/2020 05:39:48 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_name'] and  locatorType: xpath
+07/11/2020 05:39:48 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_name'] locatorType: xpath
+07/11/2020 05:39:48 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_description'] and  locatorType: xpath
+07/11/2020 05:39:49 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_description'] locatorType: xpath
+07/11/2020 05:39:49 PM - CreateNewRepo - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/11/2020 05:39:50 PM - CreateNewRepo - INFO: Element appeared on the web page
+07/11/2020 05:39:50 PM - CreateNewRepo - INFO: Element found with locator: //button[@class='btn btn-primary first-in-line'] and  locatorType: xpath
+07/11/2020 05:39:52 PM - CreateNewRepo - INFO: Clicked on element with locator: //button[@class='btn btn-primary first-in-line'] locatorType: xpath
+07/11/2020 05:39:52 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 05:39:53 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 05:39:53 PM - ToolbarNav - INFO: Element found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 05:39:55 PM - ToolbarNav - INFO: Clicked on element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 05:39:55 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 05:39:55 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 05:39:55 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 05:39:55 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 05:39:55 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 05:39:57 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 05:39:57 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='js-issue-title'] and  locatorType: xpath
+07/11/2020 05:39:57 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 05:39:57 PM - CreateNewIssue - INFO: The text is :: 'git_title62'
+07/11/2020 05:39:57 PM - CreateNewIssue - INFO: Element found with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] and  locatorType: xpath
+07/11/2020 05:39:58 PM - CreateNewIssue - INFO: Clicked on element with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] locatorType: xpath
+07/11/2020 05:39:58 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 05:39:58 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 05:39:58 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 05:39:58 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 05:39:58 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 05:40:00 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 05:40:00 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 05:40:00 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 05:40:00 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 05:40:00 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 05:40:00 PM - CreateNewIssue - INFO: Element found with locator: //span[contains(text(),'Code')] and  locatorType: xpath
+07/11/2020 05:40:00 PM - CreateNewIssue - INFO: Clicked on element with locator: //span[contains(text(),'Code')] locatorType: xpath
+07/11/2020 05:40:01 PM - CreateNewIssue - INFO: Element found with locator: // a[contains(text(), 'creating a new file')] and  locatorType: xpath
+07/11/2020 05:40:02 PM - CreateNewIssue - INFO: Clicked on element with locator: // a[contains(text(), 'creating a new file')] locatorType: xpath
+07/11/2020 05:40:02 PM - CreateNewIssue - INFO: Element found with locator: //input[@placeholder='Name your file…'] and  locatorType: xpath
+07/11/2020 05:40:02 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@placeholder='Name your file…'] locatorType: xpath
+07/11/2020 05:40:02 PM - CreateNewIssue - INFO: Element found with locator: //button[@id='submit-file'] and  locatorType: xpath
+07/11/2020 05:40:04 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@id='submit-file'] locatorType: xpath
+07/11/2020 06:24:19 PM - LoginPage - INFO: Element found with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] and  locatorType: xpath
+07/11/2020 06:24:20 PM - LoginPage - INFO: Clicked on element with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] locatorType: xpath
+07/11/2020 06:24:20 PM - LoginPage - INFO: Element found with locator: //input[@id='login_field'] and  locatorType: xpath
+07/11/2020 06:24:20 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='login_field'] locatorType: xpath
+07/11/2020 06:24:20 PM - LoginPage - INFO: Element found with locator: //input[@id='password'] and  locatorType: xpath
+07/11/2020 06:24:20 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='password'] locatorType: xpath
+07/11/2020 06:24:20 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/11/2020 06:24:22 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/11/2020 06:24:22 PM - ClickNewRepo - INFO: Element found with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] and  locatorType: xpath
+07/11/2020 06:24:23 PM - ClickNewRepo - INFO: Clicked on element with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] locatorType: xpath
+07/11/2020 06:24:23 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_name'] and  locatorType: xpath
+07/11/2020 06:24:24 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_name'] locatorType: xpath
+07/11/2020 06:24:24 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_description'] and  locatorType: xpath
+07/11/2020 06:24:24 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_description'] locatorType: xpath
+07/11/2020 06:24:24 PM - CreateNewRepo - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/11/2020 06:24:34 PM - CreateNewRepo - INFO: Element not appeared on the web page
+07/11/2020 06:24:43 PM - CreateNewRepo - INFO: Element not found with locator: //button[@class='btn btn-primary first-in-line'] and  locatorType: xpath
+07/11/2020 06:24:43 PM - CreateNewRepo - INFO: Cannot click on the element with locator: //button[@class='btn btn-primary first-in-line'] locatorType: xpath
+07/11/2020 06:24:51 PM - ToolbarNav - INFO: Element not found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 06:24:51 PM - ToolbarNav - INFO: Cannot click on the element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 06:24:53 PM - ToolbarNav - INFO: Element not found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 06:24:53 PM - ToolbarNav - INFO: Cannot click on the element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 06:24:55 PM - CreateNewIssue - INFO: Element not found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 06:24:55 PM - CreateNewIssue - INFO: Cannot send data on the element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 06:24:59 PM - CreateNewIssue - INFO: Element not found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 06:24:59 PM - CreateNewIssue - INFO: Cannot send data on the element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 06:25:03 PM - CreateNewIssue - INFO: Element not found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 06:25:03 PM - CreateNewIssue - INFO: Cannot click on the element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 06:25:05 PM - CreateNewIssue - INFO: Element not found with locator: //span[@class='js-issue-title'] and  locatorType: xpath
+07/11/2020 06:25:05 PM - CreateNewIssue - ERROR: Failed to get text on element 
+07/11/2020 06:25:32 PM - LoginPage - INFO: Element found with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] and  locatorType: xpath
+07/11/2020 06:25:32 PM - LoginPage - INFO: Clicked on element with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] locatorType: xpath
+07/11/2020 06:25:32 PM - LoginPage - INFO: Element found with locator: //input[@id='login_field'] and  locatorType: xpath
+07/11/2020 06:25:32 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='login_field'] locatorType: xpath
+07/11/2020 06:25:32 PM - LoginPage - INFO: Element found with locator: //input[@id='password'] and  locatorType: xpath
+07/11/2020 06:25:32 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='password'] locatorType: xpath
+07/11/2020 06:25:32 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/11/2020 06:25:34 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/11/2020 06:25:34 PM - ClickNewRepo - INFO: Element found with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] and  locatorType: xpath
+07/11/2020 06:25:36 PM - ClickNewRepo - INFO: Clicked on element with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] locatorType: xpath
+07/11/2020 06:25:36 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_name'] and  locatorType: xpath
+07/11/2020 06:25:37 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_name'] locatorType: xpath
+07/11/2020 06:25:37 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_description'] and  locatorType: xpath
+07/11/2020 06:25:37 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_description'] locatorType: xpath
+07/11/2020 06:25:37 PM - CreateNewRepo - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/11/2020 06:25:38 PM - CreateNewRepo - INFO: Element appeared on the web page
+07/11/2020 06:25:38 PM - CreateNewRepo - INFO: Element found with locator: //button[@class='btn btn-primary first-in-line'] and  locatorType: xpath
+07/11/2020 06:25:40 PM - CreateNewRepo - INFO: Clicked on element with locator: //button[@class='btn btn-primary first-in-line'] locatorType: xpath
+07/11/2020 06:25:40 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 06:25:41 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 06:25:41 PM - ToolbarNav - INFO: Element found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 06:25:43 PM - ToolbarNav - INFO: Clicked on element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 06:25:43 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 06:25:43 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 06:25:43 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 06:25:43 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 06:25:43 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 06:25:45 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 06:25:45 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='js-issue-title'] and  locatorType: xpath
+07/11/2020 06:25:45 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 06:25:45 PM - CreateNewIssue - INFO: The text is :: 'git_title151653'
+07/11/2020 06:25:45 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='gh-header-number'] and  locatorType: xpath
+07/11/2020 06:25:45 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 06:25:45 PM - CreateNewIssue - INFO: The text is :: '#1'
+07/11/2020 06:25:45 PM - CreateNewIssue - INFO: Element found with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] and  locatorType: xpath
+07/11/2020 06:25:46 PM - CreateNewIssue - INFO: Clicked on element with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] locatorType: xpath
+07/11/2020 06:25:46 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 06:25:46 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 06:25:46 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 06:25:47 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 06:25:47 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 06:25:48 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 06:25:48 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 06:25:48 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 06:25:48 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 06:25:48 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 06:25:48 PM - CreateNewIssue - INFO: Element found with locator: //span[contains(text(),'Code')] and  locatorType: xpath
+07/11/2020 06:25:49 PM - CreateNewIssue - INFO: Clicked on element with locator: //span[contains(text(),'Code')] locatorType: xpath
+07/11/2020 06:25:49 PM - CreateNewIssue - INFO: Element found with locator: // a[contains(text(), 'creating a new file')] and  locatorType: xpath
+07/11/2020 06:25:50 PM - CreateNewIssue - INFO: Clicked on element with locator: // a[contains(text(), 'creating a new file')] locatorType: xpath
+07/11/2020 06:25:50 PM - CreateNewIssue - INFO: Element found with locator: //input[@placeholder='Name your file…'] and  locatorType: xpath
+07/11/2020 06:25:50 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@placeholder='Name your file…'] locatorType: xpath
+07/11/2020 06:25:50 PM - CreateNewIssue - INFO: Element found with locator: //button[@id='submit-file'] and  locatorType: xpath
+07/11/2020 06:25:52 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@id='submit-file'] locatorType: xpath
+07/11/2020 06:25:55 PM - ToolbarNav - INFO: Element not found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 06:25:55 PM - ToolbarNav - INFO: Cannot click on the element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 06:25:58 PM - CreateNewIssue - INFO: Element not found with locator: /html//a[@id='issue_1_link'] and  locatorType: xpath
+07/11/2020 06:25:58 PM - CreateNewIssue - INFO: Cannot click on the element with locator: /html//a[@id='issue_1_link'] locatorType: xpath
+07/11/2020 06:26:01 PM - CreateNewIssue - INFO: Element not found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 06:26:01 PM - CreateNewIssue - INFO: Cannot send data on the element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 06:26:04 PM - CreateNewIssue - INFO: Element not found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 06:26:04 PM - CreateNewIssue - INFO: Cannot click on the element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 06:34:57 PM - LoginPage - INFO: Element found with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] and  locatorType: xpath
+07/11/2020 06:34:58 PM - LoginPage - INFO: Clicked on element with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] locatorType: xpath
+07/11/2020 06:34:58 PM - LoginPage - INFO: Element found with locator: //input[@id='login_field'] and  locatorType: xpath
+07/11/2020 06:34:58 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='login_field'] locatorType: xpath
+07/11/2020 06:34:58 PM - LoginPage - INFO: Element found with locator: //input[@id='password'] and  locatorType: xpath
+07/11/2020 06:34:58 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='password'] locatorType: xpath
+07/11/2020 06:34:58 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/11/2020 06:35:00 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/11/2020 06:35:00 PM - ClickNewRepo - INFO: Element found with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] and  locatorType: xpath
+07/11/2020 06:35:01 PM - ClickNewRepo - INFO: Clicked on element with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] locatorType: xpath
+07/11/2020 06:35:01 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_name'] and  locatorType: xpath
+07/11/2020 06:35:02 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_name'] locatorType: xpath
+07/11/2020 06:35:02 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_description'] and  locatorType: xpath
+07/11/2020 06:35:02 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_description'] locatorType: xpath
+07/11/2020 06:35:02 PM - CreateNewRepo - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/11/2020 06:35:03 PM - CreateNewRepo - INFO: Element appeared on the web page
+07/11/2020 06:35:03 PM - CreateNewRepo - INFO: Element found with locator: //button[@class='btn btn-primary first-in-line'] and  locatorType: xpath
+07/11/2020 06:35:05 PM - CreateNewRepo - INFO: Clicked on element with locator: //button[@class='btn btn-primary first-in-line'] locatorType: xpath
+07/11/2020 06:35:05 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 06:35:06 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 06:35:06 PM - ToolbarNav - INFO: Element found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 06:35:08 PM - ToolbarNav - INFO: Clicked on element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 06:35:08 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 06:35:08 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 06:35:08 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 06:35:08 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 06:35:08 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 06:35:10 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 06:35:10 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='js-issue-title'] and  locatorType: xpath
+07/11/2020 06:35:10 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 06:35:10 PM - CreateNewIssue - INFO: The text is :: 'git_title101621'
+07/11/2020 06:35:10 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='gh-header-number'] and  locatorType: xpath
+07/11/2020 06:35:10 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 06:35:10 PM - CreateNewIssue - INFO: The text is :: '#1'
+07/11/2020 06:35:10 PM - CreateNewIssue - INFO: Element found with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] and  locatorType: xpath
+07/11/2020 06:35:12 PM - CreateNewIssue - INFO: Clicked on element with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] locatorType: xpath
+07/11/2020 06:35:12 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 06:35:12 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 06:35:12 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 06:35:12 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 06:35:12 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 06:35:14 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 06:35:14 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 06:35:15 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 06:35:15 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 06:35:15 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 06:35:15 PM - CreateNewIssue - INFO: Element found with locator: //span[contains(text(),'Code')] and  locatorType: xpath
+07/11/2020 06:35:15 PM - CreateNewIssue - INFO: Clicked on element with locator: //span[contains(text(),'Code')] locatorType: xpath
+07/11/2020 06:35:15 PM - CreateNewIssue - INFO: Element found with locator: // a[contains(text(), 'creating a new file')] and  locatorType: xpath
+07/11/2020 06:35:16 PM - CreateNewIssue - INFO: Clicked on element with locator: // a[contains(text(), 'creating a new file')] locatorType: xpath
+07/11/2020 06:35:16 PM - CreateNewIssue - INFO: Element found with locator: //input[@placeholder='Name your file…'] and  locatorType: xpath
+07/11/2020 06:35:16 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@placeholder='Name your file…'] locatorType: xpath
+07/11/2020 06:35:16 PM - CreateNewIssue - INFO: Element found with locator: //button[@id='submit-file'] and  locatorType: xpath
+07/11/2020 06:35:19 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@id='submit-file'] locatorType: xpath
+07/11/2020 06:35:22 PM - ToolbarNav - INFO: Element not found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 06:35:22 PM - ToolbarNav - INFO: Cannot click on the element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 06:35:25 PM - CreateNewIssue - INFO: Element not found with locator: /html//a[@id='issue_1_link'] and  locatorType: xpath
+07/11/2020 06:35:25 PM - CreateNewIssue - INFO: Cannot click on the element with locator: /html//a[@id='issue_1_link'] locatorType: xpath
+07/11/2020 06:35:28 PM - CreateNewIssue - INFO: Element not found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 06:35:28 PM - CreateNewIssue - INFO: Cannot send data on the element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 06:35:31 PM - CreateNewIssue - INFO: Element not found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 06:35:31 PM - CreateNewIssue - INFO: Cannot click on the element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 06:38:12 PM - LoginPage - INFO: Element found with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] and  locatorType: xpath
+07/11/2020 06:38:13 PM - LoginPage - INFO: Clicked on element with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] locatorType: xpath
+07/11/2020 06:38:13 PM - LoginPage - INFO: Element found with locator: //input[@id='login_field'] and  locatorType: xpath
+07/11/2020 06:38:13 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='login_field'] locatorType: xpath
+07/11/2020 06:38:13 PM - LoginPage - INFO: Element found with locator: //input[@id='password'] and  locatorType: xpath
+07/11/2020 06:38:13 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='password'] locatorType: xpath
+07/11/2020 06:38:13 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/11/2020 06:38:15 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/11/2020 06:38:15 PM - ClickNewRepo - INFO: Element found with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] and  locatorType: xpath
+07/11/2020 06:38:16 PM - ClickNewRepo - INFO: Clicked on element with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] locatorType: xpath
+07/11/2020 06:38:16 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_name'] and  locatorType: xpath
+07/11/2020 06:38:16 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_name'] locatorType: xpath
+07/11/2020 06:38:16 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_description'] and  locatorType: xpath
+07/11/2020 06:38:17 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_description'] locatorType: xpath
+07/11/2020 06:38:17 PM - CreateNewRepo - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/11/2020 06:38:17 PM - CreateNewRepo - INFO: Element appeared on the web page
+07/11/2020 06:38:17 PM - CreateNewRepo - INFO: Element found with locator: //button[@class='btn btn-primary first-in-line'] and  locatorType: xpath
+07/11/2020 06:38:19 PM - CreateNewRepo - INFO: Clicked on element with locator: //button[@class='btn btn-primary first-in-line'] locatorType: xpath
+07/11/2020 06:38:19 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 06:38:20 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 06:38:20 PM - ToolbarNav - INFO: Element found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 06:38:22 PM - ToolbarNav - INFO: Clicked on element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 06:38:22 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 06:38:22 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 06:38:22 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 06:38:22 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 06:38:22 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 06:38:24 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 06:38:24 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='js-issue-title'] and  locatorType: xpath
+07/11/2020 06:38:24 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 06:38:24 PM - CreateNewIssue - INFO: The text is :: 'git_title269449'
+07/11/2020 06:38:24 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='gh-header-number'] and  locatorType: xpath
+07/11/2020 06:38:24 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 06:38:24 PM - CreateNewIssue - INFO: The text is :: '#1'
+07/11/2020 06:38:24 PM - CreateNewIssue - INFO: Element found with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] and  locatorType: xpath
+07/11/2020 06:38:25 PM - CreateNewIssue - INFO: Clicked on element with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] locatorType: xpath
+07/11/2020 06:38:25 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 06:38:25 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 06:38:25 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 06:38:26 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 06:38:26 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 06:38:27 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 06:38:28 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 06:38:28 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 06:38:28 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 06:38:28 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 06:38:28 PM - CreateNewIssue - INFO: Element found with locator: //span[contains(text(),'Code')] and  locatorType: xpath
+07/11/2020 06:38:28 PM - CreateNewIssue - INFO: Clicked on element with locator: //span[contains(text(),'Code')] locatorType: xpath
+07/11/2020 06:38:28 PM - CreateNewIssue - INFO: Element found with locator: // a[contains(text(), 'creating a new file')] and  locatorType: xpath
+07/11/2020 06:38:29 PM - CreateNewIssue - INFO: Clicked on element with locator: // a[contains(text(), 'creating a new file')] locatorType: xpath
+07/11/2020 06:38:29 PM - CreateNewIssue - INFO: Element found with locator: //input[@placeholder='Name your file…'] and  locatorType: xpath
+07/11/2020 06:38:30 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@placeholder='Name your file…'] locatorType: xpath
+07/11/2020 06:38:30 PM - CreateNewIssue - INFO: Element found with locator: //button[@id='submit-file'] and  locatorType: xpath
+07/11/2020 06:38:32 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@id='submit-file'] locatorType: xpath
+07/11/2020 06:38:35 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 06:38:35 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 06:38:35 PM - CreateNewIssue - INFO: Element found with locator: /html//a[@id='issue_1_link'] and  locatorType: xpath
+07/11/2020 06:38:37 PM - CreateNewIssue - INFO: Clicked on element with locator: /html//a[@id='issue_1_link'] locatorType: xpath
+07/11/2020 06:38:37 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 06:38:37 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 06:38:37 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 06:38:37 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 06:43:30 PM - LoginPage - INFO: Element found with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] and  locatorType: xpath
+07/11/2020 06:43:30 PM - LoginPage - INFO: Clicked on element with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] locatorType: xpath
+07/11/2020 06:43:30 PM - LoginPage - INFO: Element found with locator: //input[@id='login_field'] and  locatorType: xpath
+07/11/2020 06:43:30 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='login_field'] locatorType: xpath
+07/11/2020 06:43:30 PM - LoginPage - INFO: Element found with locator: //input[@id='password'] and  locatorType: xpath
+07/11/2020 06:43:30 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='password'] locatorType: xpath
+07/11/2020 06:43:30 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/11/2020 06:43:32 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/11/2020 06:43:32 PM - ClickNewRepo - INFO: Element found with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] and  locatorType: xpath
+07/11/2020 06:43:33 PM - ClickNewRepo - INFO: Clicked on element with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] locatorType: xpath
+07/11/2020 06:43:33 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_name'] and  locatorType: xpath
+07/11/2020 06:43:33 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_name'] locatorType: xpath
+07/11/2020 06:43:34 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_description'] and  locatorType: xpath
+07/11/2020 06:43:34 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_description'] locatorType: xpath
+07/11/2020 06:43:34 PM - CreateNewRepo - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/11/2020 06:43:35 PM - CreateNewRepo - INFO: Element appeared on the web page
+07/11/2020 06:43:35 PM - CreateNewRepo - INFO: Element found with locator: //button[@class='btn btn-primary first-in-line'] and  locatorType: xpath
+07/11/2020 06:43:37 PM - CreateNewRepo - INFO: Clicked on element with locator: //button[@class='btn btn-primary first-in-line'] locatorType: xpath
+07/11/2020 06:43:37 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 06:43:38 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 06:43:38 PM - ToolbarNav - INFO: Element found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 06:43:39 PM - ToolbarNav - INFO: Clicked on element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 06:43:39 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 06:43:39 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 06:43:39 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 06:43:39 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 06:43:39 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 06:43:41 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 06:43:41 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='js-issue-title'] and  locatorType: xpath
+07/11/2020 06:43:41 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 06:43:41 PM - CreateNewIssue - INFO: The text is :: 'git_title235071'
+07/11/2020 06:43:41 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='gh-header-number'] and  locatorType: xpath
+07/11/2020 06:43:41 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 06:43:41 PM - CreateNewIssue - INFO: The text is :: '#1'
+07/11/2020 06:43:41 PM - CreateNewIssue - INFO: Element found with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] and  locatorType: xpath
+07/11/2020 06:43:43 PM - CreateNewIssue - INFO: Clicked on element with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] locatorType: xpath
+07/11/2020 06:43:43 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 06:43:43 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 06:43:43 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 06:43:43 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 06:43:43 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 06:43:45 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 06:43:45 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 06:43:45 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 06:43:45 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 06:43:45 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 06:43:45 PM - CreateNewIssue - INFO: Element found with locator: //span[contains(text(),'Code')] and  locatorType: xpath
+07/11/2020 06:43:45 PM - CreateNewIssue - INFO: Clicked on element with locator: //span[contains(text(),'Code')] locatorType: xpath
+07/11/2020 06:43:46 PM - CreateNewIssue - INFO: Element found with locator: // a[contains(text(), 'creating a new file')] and  locatorType: xpath
+07/11/2020 06:43:47 PM - CreateNewIssue - INFO: Clicked on element with locator: // a[contains(text(), 'creating a new file')] locatorType: xpath
+07/11/2020 06:43:47 PM - CreateNewIssue - INFO: Element found with locator: //input[@placeholder='Name your file…'] and  locatorType: xpath
+07/11/2020 06:43:47 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@placeholder='Name your file…'] locatorType: xpath
+07/11/2020 06:43:47 PM - CreateNewIssue - INFO: Element found with locator: //button[@id='submit-file'] and  locatorType: xpath
+07/11/2020 06:43:49 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@id='submit-file'] locatorType: xpath
+07/11/2020 06:43:52 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 06:43:53 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 06:43:53 PM - CreateNewIssue - INFO: Element found with locator: /html//a[@id='issue_2_link'] and  locatorType: xpath
+07/11/2020 06:43:54 PM - CreateNewIssue - INFO: Clicked on element with locator: /html//a[@id='issue_2_link'] locatorType: xpath
+07/11/2020 06:43:54 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 06:43:54 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 06:43:54 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 06:43:54 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 06:43:57 PM - CreateNewIssue - INFO: Element not found with locator: //div[@id='issuecomment-657058249']//a[contains(@class,'issue-link js-issue-link')][contains(text(),'#')] and  locatorType: xpath
+07/11/2020 06:43:57 PM - CreateNewIssue - INFO: Cannot click on the element with locator: //div[@id='issuecomment-657058249']//a[contains(@class,'issue-link js-issue-link')][contains(text(),'#')] locatorType: xpath
+07/11/2020 06:45:12 PM - LoginPage - INFO: Element found with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] and  locatorType: xpath
+07/11/2020 06:45:12 PM - LoginPage - INFO: Clicked on element with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] locatorType: xpath
+07/11/2020 06:45:12 PM - LoginPage - INFO: Element found with locator: //input[@id='login_field'] and  locatorType: xpath
+07/11/2020 06:45:12 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='login_field'] locatorType: xpath
+07/11/2020 06:45:12 PM - LoginPage - INFO: Element found with locator: //input[@id='password'] and  locatorType: xpath
+07/11/2020 06:45:12 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='password'] locatorType: xpath
+07/11/2020 06:45:12 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/11/2020 06:45:14 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/11/2020 06:45:14 PM - ClickNewRepo - INFO: Element found with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] and  locatorType: xpath
+07/11/2020 06:45:15 PM - ClickNewRepo - INFO: Clicked on element with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] locatorType: xpath
+07/11/2020 06:45:15 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_name'] and  locatorType: xpath
+07/11/2020 06:45:16 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_name'] locatorType: xpath
+07/11/2020 06:45:16 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_description'] and  locatorType: xpath
+07/11/2020 06:45:16 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_description'] locatorType: xpath
+07/11/2020 06:45:16 PM - CreateNewRepo - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/11/2020 06:45:17 PM - CreateNewRepo - INFO: Element appeared on the web page
+07/11/2020 06:45:17 PM - CreateNewRepo - INFO: Element found with locator: //button[@class='btn btn-primary first-in-line'] and  locatorType: xpath
+07/11/2020 06:45:19 PM - CreateNewRepo - INFO: Clicked on element with locator: //button[@class='btn btn-primary first-in-line'] locatorType: xpath
+07/11/2020 06:45:19 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 06:45:20 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 06:45:20 PM - ToolbarNav - INFO: Element found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 06:45:21 PM - ToolbarNav - INFO: Clicked on element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 06:45:21 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 06:45:21 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 06:45:21 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 06:45:22 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 06:45:22 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 06:45:23 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 06:45:23 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='js-issue-title'] and  locatorType: xpath
+07/11/2020 06:45:23 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 06:45:23 PM - CreateNewIssue - INFO: The text is :: 'git_title95948'
+07/11/2020 06:45:23 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='gh-header-number'] and  locatorType: xpath
+07/11/2020 06:45:23 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 06:45:23 PM - CreateNewIssue - INFO: The text is :: '#1'
+07/11/2020 06:45:23 PM - CreateNewIssue - INFO: Element found with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] and  locatorType: xpath
+07/11/2020 06:45:24 PM - CreateNewIssue - INFO: Clicked on element with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] locatorType: xpath
+07/11/2020 06:45:24 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 06:45:24 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 06:45:24 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 06:45:25 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 06:45:25 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 06:45:26 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 06:45:26 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 06:45:27 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 06:45:27 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 06:45:27 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 06:45:27 PM - CreateNewIssue - INFO: Element found with locator: //span[contains(text(),'Code')] and  locatorType: xpath
+07/11/2020 06:45:27 PM - CreateNewIssue - INFO: Clicked on element with locator: //span[contains(text(),'Code')] locatorType: xpath
+07/11/2020 06:45:27 PM - CreateNewIssue - INFO: Element found with locator: // a[contains(text(), 'creating a new file')] and  locatorType: xpath
+07/11/2020 06:45:28 PM - CreateNewIssue - INFO: Clicked on element with locator: // a[contains(text(), 'creating a new file')] locatorType: xpath
+07/11/2020 06:45:28 PM - CreateNewIssue - INFO: Element found with locator: //input[@placeholder='Name your file…'] and  locatorType: xpath
+07/11/2020 06:45:28 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@placeholder='Name your file…'] locatorType: xpath
+07/11/2020 06:45:28 PM - CreateNewIssue - INFO: Element found with locator: //button[@id='submit-file'] and  locatorType: xpath
+07/11/2020 06:45:30 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@id='submit-file'] locatorType: xpath
+07/11/2020 06:45:33 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 06:45:34 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 06:45:34 PM - CreateNewIssue - INFO: Element found with locator: /html//a[@id='issue_1_link'] and  locatorType: xpath
+07/11/2020 06:45:35 PM - CreateNewIssue - INFO: Clicked on element with locator: /html//a[@id='issue_1_link'] locatorType: xpath
+07/11/2020 06:45:35 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 06:45:36 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 06:45:36 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 06:45:36 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 06:45:39 PM - CreateNewIssue - INFO: Element not found with locator: //div[@id='issuecomment-657058249']//a[contains(@class,'issue-link js-issue-link')][contains(text(),'#')] and  locatorType: xpath
+07/11/2020 06:45:39 PM - CreateNewIssue - INFO: Cannot click on the element with locator: //div[@id='issuecomment-657058249']//a[contains(@class,'issue-link js-issue-link')][contains(text(),'#')] locatorType: xpath
+07/11/2020 07:07:05 PM - LoginPage - INFO: Element found with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] and  locatorType: xpath
+07/11/2020 07:07:05 PM - LoginPage - INFO: Clicked on element with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] locatorType: xpath
+07/11/2020 07:07:05 PM - LoginPage - INFO: Element found with locator: //input[@id='login_field'] and  locatorType: xpath
+07/11/2020 07:07:06 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='login_field'] locatorType: xpath
+07/11/2020 07:07:06 PM - LoginPage - INFO: Element found with locator: //input[@id='password'] and  locatorType: xpath
+07/11/2020 07:07:06 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='password'] locatorType: xpath
+07/11/2020 07:07:06 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/11/2020 07:07:08 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/11/2020 07:07:08 PM - ClickNewRepo - INFO: Element found with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] and  locatorType: xpath
+07/11/2020 07:07:09 PM - ClickNewRepo - INFO: Clicked on element with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] locatorType: xpath
+07/11/2020 07:07:09 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_name'] and  locatorType: xpath
+07/11/2020 07:07:09 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_name'] locatorType: xpath
+07/11/2020 07:07:09 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_description'] and  locatorType: xpath
+07/11/2020 07:07:10 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_description'] locatorType: xpath
+07/11/2020 07:07:10 PM - CreateNewRepo - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/11/2020 07:07:11 PM - CreateNewRepo - INFO: Element appeared on the web page
+07/11/2020 07:07:11 PM - CreateNewRepo - INFO: Element found with locator: //button[@class='btn btn-primary first-in-line'] and  locatorType: xpath
+07/11/2020 07:07:14 PM - CreateNewRepo - INFO: Clicked on element with locator: //button[@class='btn btn-primary first-in-line'] locatorType: xpath
+07/11/2020 07:07:14 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 07:07:15 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 07:07:15 PM - ToolbarNav - INFO: Element found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 07:07:16 PM - ToolbarNav - INFO: Clicked on element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 07:07:16 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 07:07:16 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 07:07:16 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 07:07:16 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 07:07:16 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 07:07:18 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 07:07:18 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='js-issue-title'] and  locatorType: xpath
+07/11/2020 07:07:18 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 07:07:18 PM - CreateNewIssue - INFO: The text is :: 'git_title107261'
+07/11/2020 07:07:18 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='gh-header-number'] and  locatorType: xpath
+07/11/2020 07:07:18 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 07:07:18 PM - CreateNewIssue - INFO: The text is :: '#1'
+07/11/2020 07:07:18 PM - CreateNewIssue - INFO: Element found with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] and  locatorType: xpath
+07/11/2020 07:07:19 PM - CreateNewIssue - INFO: Clicked on element with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] locatorType: xpath
+07/11/2020 07:07:20 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 07:07:20 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 07:07:20 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 07:07:20 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 07:07:20 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 07:07:21 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 07:07:21 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 07:07:22 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 07:07:22 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 07:07:22 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 07:07:22 PM - CreateNewIssue - INFO: Element found with locator: //span[contains(text(),'Code')] and  locatorType: xpath
+07/11/2020 07:07:22 PM - CreateNewIssue - INFO: Clicked on element with locator: //span[contains(text(),'Code')] locatorType: xpath
+07/11/2020 07:07:23 PM - CreateNewIssue - INFO: Element found with locator: // a[contains(text(), 'creating a new file')] and  locatorType: xpath
+07/11/2020 07:07:24 PM - CreateNewIssue - INFO: Clicked on element with locator: // a[contains(text(), 'creating a new file')] locatorType: xpath
+07/11/2020 07:07:24 PM - CreateNewIssue - INFO: Element found with locator: //input[@placeholder='Name your file…'] and  locatorType: xpath
+07/11/2020 07:07:24 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@placeholder='Name your file…'] locatorType: xpath
+07/11/2020 07:07:24 PM - CreateNewIssue - INFO: Element found with locator: //button[@id='submit-file'] and  locatorType: xpath
+07/11/2020 07:07:26 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@id='submit-file'] locatorType: xpath
+07/11/2020 07:07:29 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 07:07:30 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 07:07:30 PM - CreateNewIssue - INFO: Element found with locator: /html//a[@id='issue_1_link'] and  locatorType: xpath
+07/11/2020 07:07:31 PM - CreateNewIssue - INFO: Clicked on element with locator: /html//a[@id='issue_1_link'] locatorType: xpath
+07/11/2020 07:07:31 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 07:07:31 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 07:07:31 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 07:07:31 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 07:07:34 PM - CreateNewIssue - INFO: Element not found with locator: //div[@id='issuecomment-657058249']//a[contains(@class,'issue-link js-issue-link')][contains(text(),'#')] and  locatorType: xpath
+07/11/2020 07:07:34 PM - CreateNewIssue - INFO: Cannot click on the element with locator: //div[@id='issuecomment-657058249']//a[contains(@class,'issue-link js-issue-link')][contains(text(),'#')] locatorType: xpath
+07/11/2020 07:19:18 PM - LoginPage - INFO: Element found with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] and  locatorType: xpath
+07/11/2020 07:19:18 PM - LoginPage - INFO: Clicked on element with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] locatorType: xpath
+07/11/2020 07:19:18 PM - LoginPage - INFO: Element found with locator: //input[@id='login_field'] and  locatorType: xpath
+07/11/2020 07:19:18 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='login_field'] locatorType: xpath
+07/11/2020 07:19:18 PM - LoginPage - INFO: Element found with locator: //input[@id='password'] and  locatorType: xpath
+07/11/2020 07:19:18 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='password'] locatorType: xpath
+07/11/2020 07:19:18 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/11/2020 07:19:21 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/11/2020 07:19:21 PM - ClickNewRepo - INFO: Element found with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] and  locatorType: xpath
+07/11/2020 07:19:22 PM - ClickNewRepo - INFO: Clicked on element with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] locatorType: xpath
+07/11/2020 07:19:22 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_name'] and  locatorType: xpath
+07/11/2020 07:19:23 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_name'] locatorType: xpath
+07/11/2020 07:19:23 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_description'] and  locatorType: xpath
+07/11/2020 07:19:23 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_description'] locatorType: xpath
+07/11/2020 07:19:23 PM - CreateNewRepo - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/11/2020 07:19:23 PM - CreateNewRepo - INFO: Element appeared on the web page
+07/11/2020 07:19:24 PM - CreateNewRepo - INFO: Element found with locator: //button[@class='btn btn-primary first-in-line'] and  locatorType: xpath
+07/11/2020 07:19:26 PM - CreateNewRepo - INFO: Clicked on element with locator: //button[@class='btn btn-primary first-in-line'] locatorType: xpath
+07/11/2020 07:19:26 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 07:19:27 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 07:19:27 PM - ToolbarNav - INFO: Element found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 07:19:28 PM - ToolbarNav - INFO: Clicked on element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 07:19:28 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 07:19:28 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 07:19:28 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 07:19:28 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 07:19:28 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 07:19:30 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 07:19:30 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='js-issue-title'] and  locatorType: xpath
+07/11/2020 07:19:30 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 07:19:30 PM - CreateNewIssue - INFO: The text is :: 'git_title251424'
+07/11/2020 07:19:30 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='gh-header-number'] and  locatorType: xpath
+07/11/2020 07:19:30 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 07:19:30 PM - CreateNewIssue - INFO: The text is :: '#1'
+07/11/2020 07:19:30 PM - CreateNewIssue - INFO: Element found with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] and  locatorType: xpath
+07/11/2020 07:19:31 PM - CreateNewIssue - INFO: Clicked on element with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] locatorType: xpath
+07/11/2020 07:19:31 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 07:19:31 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 07:19:31 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 07:19:32 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 07:19:32 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 07:19:33 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 07:19:33 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 07:19:33 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 07:19:33 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 07:19:33 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 07:19:34 PM - CreateNewIssue - INFO: Element found with locator: //span[contains(text(),'Code')] and  locatorType: xpath
+07/11/2020 07:19:34 PM - CreateNewIssue - INFO: Clicked on element with locator: //span[contains(text(),'Code')] locatorType: xpath
+07/11/2020 07:19:34 PM - CreateNewIssue - INFO: Element found with locator: // a[contains(text(), 'creating a new file')] and  locatorType: xpath
+07/11/2020 07:19:35 PM - CreateNewIssue - INFO: Clicked on element with locator: // a[contains(text(), 'creating a new file')] locatorType: xpath
+07/11/2020 07:19:35 PM - CreateNewIssue - INFO: Element found with locator: //input[@placeholder='Name your file…'] and  locatorType: xpath
+07/11/2020 07:19:35 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@placeholder='Name your file…'] locatorType: xpath
+07/11/2020 07:19:35 PM - CreateNewIssue - INFO: Element found with locator: //button[@id='submit-file'] and  locatorType: xpath
+07/11/2020 07:19:37 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@id='submit-file'] locatorType: xpath
+07/11/2020 07:19:39 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 07:19:40 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 07:19:40 PM - CreateNewIssue - INFO: Element found with locator: /html//a[@id='issue_2_link'] and  locatorType: xpath
+07/11/2020 07:19:41 PM - CreateNewIssue - INFO: Clicked on element with locator: /html//a[@id='issue_2_link'] locatorType: xpath
+07/11/2020 07:19:41 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 07:19:41 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 07:19:41 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 07:19:42 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 07:19:42 PM - CreateNewIssue - INFO: Element found with locator: //a[@class='issue-link js-issue-link'] and  locatorType: xpath
+07/11/2020 07:19:43 PM - CreateNewIssue - INFO: Clicked on element with locator: //a[@class='issue-link js-issue-link'] locatorType: xpath
+07/11/2020 07:21:26 PM - LoginPage - INFO: Element found with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] and  locatorType: xpath
+07/11/2020 07:21:27 PM - LoginPage - INFO: Clicked on element with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] locatorType: xpath
+07/11/2020 07:21:27 PM - LoginPage - INFO: Element found with locator: //input[@id='login_field'] and  locatorType: xpath
+07/11/2020 07:21:27 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='login_field'] locatorType: xpath
+07/11/2020 07:21:27 PM - LoginPage - INFO: Element found with locator: //input[@id='password'] and  locatorType: xpath
+07/11/2020 07:21:27 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='password'] locatorType: xpath
+07/11/2020 07:21:27 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/11/2020 07:21:29 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/11/2020 07:21:29 PM - ClickNewRepo - INFO: Element found with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] and  locatorType: xpath
+07/11/2020 07:21:30 PM - ClickNewRepo - INFO: Clicked on element with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] locatorType: xpath
+07/11/2020 07:21:30 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_name'] and  locatorType: xpath
+07/11/2020 07:21:30 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_name'] locatorType: xpath
+07/11/2020 07:21:30 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_description'] and  locatorType: xpath
+07/11/2020 07:21:31 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_description'] locatorType: xpath
+07/11/2020 07:21:31 PM - CreateNewRepo - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/11/2020 07:21:31 PM - CreateNewRepo - INFO: Element appeared on the web page
+07/11/2020 07:21:31 PM - CreateNewRepo - INFO: Element found with locator: //button[@class='btn btn-primary first-in-line'] and  locatorType: xpath
+07/11/2020 07:21:33 PM - CreateNewRepo - INFO: Clicked on element with locator: //button[@class='btn btn-primary first-in-line'] locatorType: xpath
+07/11/2020 07:21:34 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 07:21:34 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 07:21:34 PM - ToolbarNav - INFO: Element found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 07:21:36 PM - ToolbarNav - INFO: Clicked on element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 07:21:36 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 07:21:36 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 07:21:36 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 07:21:36 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 07:21:36 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 07:21:38 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 07:21:38 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='js-issue-title'] and  locatorType: xpath
+07/11/2020 07:21:38 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 07:21:38 PM - CreateNewIssue - INFO: The text is :: 'git_title254412'
+07/11/2020 07:21:38 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='gh-header-number'] and  locatorType: xpath
+07/11/2020 07:21:38 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 07:21:38 PM - CreateNewIssue - INFO: The text is :: '#1'
+07/11/2020 07:21:38 PM - CreateNewIssue - INFO: Element found with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] and  locatorType: xpath
+07/11/2020 07:21:39 PM - CreateNewIssue - INFO: Clicked on element with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] locatorType: xpath
+07/11/2020 07:21:39 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 07:21:39 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 07:21:39 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 07:21:40 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 07:21:40 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 07:21:41 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 07:21:41 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 07:21:41 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 07:21:41 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 07:21:42 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 07:21:42 PM - CreateNewIssue - INFO: Element found with locator: //span[contains(text(),'Code')] and  locatorType: xpath
+07/11/2020 07:21:42 PM - CreateNewIssue - INFO: Clicked on element with locator: //span[contains(text(),'Code')] locatorType: xpath
+07/11/2020 07:21:42 PM - CreateNewIssue - INFO: Element found with locator: // a[contains(text(), 'creating a new file')] and  locatorType: xpath
+07/11/2020 07:21:43 PM - CreateNewIssue - INFO: Clicked on element with locator: // a[contains(text(), 'creating a new file')] locatorType: xpath
+07/11/2020 07:21:43 PM - CreateNewIssue - INFO: Element found with locator: //input[@placeholder='Name your file…'] and  locatorType: xpath
+07/11/2020 07:21:43 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@placeholder='Name your file…'] locatorType: xpath
+07/11/2020 07:21:43 PM - CreateNewIssue - INFO: Element found with locator: //button[@id='submit-file'] and  locatorType: xpath
+07/11/2020 07:21:45 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@id='submit-file'] locatorType: xpath
+07/11/2020 07:21:47 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 07:21:48 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 07:21:48 PM - CreateNewIssue - INFO: Element found with locator: /html//a[@id='issue_1_link'] and  locatorType: xpath
+07/11/2020 07:21:49 PM - CreateNewIssue - INFO: Clicked on element with locator: /html//a[@id='issue_1_link'] locatorType: xpath
+07/11/2020 07:21:49 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 07:21:49 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 07:21:49 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 07:21:49 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 07:21:50 PM - CreateNewIssue - INFO: Element found with locator: //a[@class='issue-link js-issue-link'] and  locatorType: xpath
+07/11/2020 07:21:52 PM - CreateNewIssue - INFO: Clicked on element with locator: //a[@class='issue-link js-issue-link'] locatorType: xpath
+07/11/2020 07:33:48 PM - LoginPage - INFO: Element found with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] and  locatorType: xpath
+07/11/2020 07:33:48 PM - LoginPage - INFO: Clicked on element with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] locatorType: xpath
+07/11/2020 07:33:48 PM - LoginPage - INFO: Element found with locator: //input[@id='login_field'] and  locatorType: xpath
+07/11/2020 07:33:49 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='login_field'] locatorType: xpath
+07/11/2020 07:33:49 PM - LoginPage - INFO: Element found with locator: //input[@id='password'] and  locatorType: xpath
+07/11/2020 07:33:49 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='password'] locatorType: xpath
+07/11/2020 07:33:49 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/11/2020 07:33:51 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/11/2020 07:33:51 PM - ClickNewRepo - INFO: Element found with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] and  locatorType: xpath
+07/11/2020 07:33:52 PM - ClickNewRepo - INFO: Clicked on element with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] locatorType: xpath
+07/11/2020 07:33:52 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_name'] and  locatorType: xpath
+07/11/2020 07:33:53 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_name'] locatorType: xpath
+07/11/2020 07:33:53 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_description'] and  locatorType: xpath
+07/11/2020 07:33:53 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_description'] locatorType: xpath
+07/11/2020 07:33:53 PM - CreateNewRepo - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/11/2020 07:33:53 PM - CreateNewRepo - INFO: Element appeared on the web page
+07/11/2020 07:33:53 PM - CreateNewRepo - INFO: Element found with locator: //button[@class='btn btn-primary first-in-line'] and  locatorType: xpath
+07/11/2020 07:33:56 PM - CreateNewRepo - INFO: Clicked on element with locator: //button[@class='btn btn-primary first-in-line'] locatorType: xpath
+07/11/2020 07:33:56 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 07:33:56 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 07:33:56 PM - ToolbarNav - INFO: Element found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 07:33:58 PM - ToolbarNav - INFO: Clicked on element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 07:33:58 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 07:33:58 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 07:33:58 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 07:33:58 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 07:33:58 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 07:34:00 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 07:34:00 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='js-issue-title'] and  locatorType: xpath
+07/11/2020 07:34:00 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 07:34:00 PM - CreateNewIssue - INFO: The text is :: 'git_title357464'
+07/11/2020 07:34:00 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='gh-header-number'] and  locatorType: xpath
+07/11/2020 07:34:00 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 07:34:00 PM - CreateNewIssue - INFO: The text is :: '#1'
+07/11/2020 07:34:00 PM - CreateNewIssue - INFO: Element found with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] and  locatorType: xpath
+07/11/2020 07:34:01 PM - CreateNewIssue - INFO: Clicked on element with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] locatorType: xpath
+07/11/2020 07:34:01 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 07:34:01 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 07:34:01 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 07:34:02 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 07:34:02 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 07:34:03 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 07:34:03 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 07:34:04 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 07:34:04 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 07:34:04 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 07:34:04 PM - CreateNewIssue - INFO: Element found with locator: //span[contains(text(),'Code')] and  locatorType: xpath
+07/11/2020 07:34:04 PM - CreateNewIssue - INFO: Clicked on element with locator: //span[contains(text(),'Code')] locatorType: xpath
+07/11/2020 07:34:04 PM - CreateNewIssue - INFO: Element found with locator: // a[contains(text(), 'creating a new file')] and  locatorType: xpath
+07/11/2020 07:34:05 PM - CreateNewIssue - INFO: Clicked on element with locator: // a[contains(text(), 'creating a new file')] locatorType: xpath
+07/11/2020 07:34:05 PM - CreateNewIssue - INFO: Element found with locator: //input[@placeholder='Name your file…'] and  locatorType: xpath
+07/11/2020 07:34:05 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@placeholder='Name your file…'] locatorType: xpath
+07/11/2020 07:34:05 PM - CreateNewIssue - INFO: Element found with locator: //button[@id='submit-file'] and  locatorType: xpath
+07/11/2020 07:34:07 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@id='submit-file'] locatorType: xpath
+07/11/2020 07:34:09 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 07:34:10 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 07:34:10 PM - CreateNewIssue - INFO: Element found with locator: /html//a[@id='issue_1_link'] and  locatorType: xpath
+07/11/2020 07:34:11 PM - CreateNewIssue - INFO: Clicked on element with locator: /html//a[@id='issue_1_link'] locatorType: xpath
+07/11/2020 07:34:11 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 07:34:11 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 07:34:12 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 07:34:12 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 07:34:13 PM - CreateNewIssue - INFO: Element found with locator: //a[@class='issue-link js-issue-link'] and  locatorType: xpath
+07/11/2020 07:34:14 PM - CreateNewIssue - INFO: Clicked on element with locator: //a[@class='issue-link js-issue-link'] locatorType: xpath
+07/11/2020 07:35:46 PM - LoginPage - INFO: Element found with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] and  locatorType: xpath
+07/11/2020 07:35:46 PM - LoginPage - INFO: Clicked on element with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] locatorType: xpath
+07/11/2020 07:35:46 PM - LoginPage - INFO: Element found with locator: //input[@id='login_field'] and  locatorType: xpath
+07/11/2020 07:35:46 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='login_field'] locatorType: xpath
+07/11/2020 07:35:46 PM - LoginPage - INFO: Element found with locator: //input[@id='password'] and  locatorType: xpath
+07/11/2020 07:35:46 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='password'] locatorType: xpath
+07/11/2020 07:35:46 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/11/2020 07:35:48 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/11/2020 07:35:48 PM - ClickNewRepo - INFO: Element found with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] and  locatorType: xpath
+07/11/2020 07:35:49 PM - ClickNewRepo - INFO: Clicked on element with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] locatorType: xpath
+07/11/2020 07:35:49 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_name'] and  locatorType: xpath
+07/11/2020 07:35:49 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_name'] locatorType: xpath
+07/11/2020 07:35:49 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_description'] and  locatorType: xpath
+07/11/2020 07:35:50 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_description'] locatorType: xpath
+07/11/2020 07:35:50 PM - CreateNewRepo - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/11/2020 07:35:50 PM - CreateNewRepo - INFO: Element appeared on the web page
+07/11/2020 07:35:50 PM - CreateNewRepo - INFO: Element found with locator: //button[@class='btn btn-primary first-in-line'] and  locatorType: xpath
+07/11/2020 07:35:53 PM - CreateNewRepo - INFO: Clicked on element with locator: //button[@class='btn btn-primary first-in-line'] locatorType: xpath
+07/11/2020 07:35:53 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 07:35:54 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 07:35:54 PM - ToolbarNav - INFO: Element found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 07:35:56 PM - ToolbarNav - INFO: Clicked on element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 07:35:56 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 07:35:56 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 07:35:56 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 07:35:56 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 07:35:56 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 07:35:59 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 07:35:59 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='js-issue-title'] and  locatorType: xpath
+07/11/2020 07:35:59 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 07:35:59 PM - CreateNewIssue - INFO: The text is :: 'git_title274688'
+07/11/2020 07:35:59 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='gh-header-number'] and  locatorType: xpath
+07/11/2020 07:35:59 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 07:35:59 PM - CreateNewIssue - INFO: The text is :: '#1'
+07/11/2020 07:35:59 PM - CreateNewIssue - INFO: Element found with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] and  locatorType: xpath
+07/11/2020 07:36:00 PM - CreateNewIssue - INFO: Clicked on element with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] locatorType: xpath
+07/11/2020 07:36:00 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 07:36:00 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 07:36:00 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 07:36:00 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 07:36:00 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 07:36:02 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 07:36:02 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 07:36:02 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 07:36:02 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 07:36:02 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 07:36:02 PM - CreateNewIssue - INFO: Element found with locator: //span[contains(text(),'Code')] and  locatorType: xpath
+07/11/2020 07:36:02 PM - CreateNewIssue - INFO: Clicked on element with locator: //span[contains(text(),'Code')] locatorType: xpath
+07/11/2020 07:36:03 PM - CreateNewIssue - INFO: Element found with locator: // a[contains(text(), 'creating a new file')] and  locatorType: xpath
+07/11/2020 07:36:04 PM - CreateNewIssue - INFO: Clicked on element with locator: // a[contains(text(), 'creating a new file')] locatorType: xpath
+07/11/2020 07:36:04 PM - CreateNewIssue - INFO: Element found with locator: //input[@placeholder='Name your file…'] and  locatorType: xpath
+07/11/2020 07:36:04 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@placeholder='Name your file…'] locatorType: xpath
+07/11/2020 07:36:04 PM - CreateNewIssue - INFO: Element found with locator: //button[@id='submit-file'] and  locatorType: xpath
+07/11/2020 07:36:06 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@id='submit-file'] locatorType: xpath
+07/11/2020 07:36:08 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 07:36:09 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 07:36:09 PM - CreateNewIssue - INFO: Element found with locator: /html//a[@id='issue_1_link'] and  locatorType: xpath
+07/11/2020 07:36:10 PM - CreateNewIssue - INFO: Clicked on element with locator: /html//a[@id='issue_1_link'] locatorType: xpath
+07/11/2020 07:36:10 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 07:36:10 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 07:36:10 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 07:36:11 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 07:36:12 PM - CreateNewIssue - INFO: Element found with locator: //a[@class='issue-link js-issue-link'] and  locatorType: xpath
+07/11/2020 07:36:13 PM - CreateNewIssue - INFO: Clicked on element with locator: //a[@class='issue-link js-issue-link'] locatorType: xpath
+07/11/2020 07:40:00 PM - LoginPage - INFO: Element found with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] and  locatorType: xpath
+07/11/2020 07:40:00 PM - LoginPage - INFO: Clicked on element with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] locatorType: xpath
+07/11/2020 07:40:00 PM - LoginPage - INFO: Element found with locator: //input[@id='login_field'] and  locatorType: xpath
+07/11/2020 07:40:00 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='login_field'] locatorType: xpath
+07/11/2020 07:40:00 PM - LoginPage - INFO: Element found with locator: //input[@id='password'] and  locatorType: xpath
+07/11/2020 07:40:01 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='password'] locatorType: xpath
+07/11/2020 07:40:01 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/11/2020 07:40:02 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/11/2020 07:40:02 PM - ClickNewRepo - INFO: Element found with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] and  locatorType: xpath
+07/11/2020 07:40:03 PM - ClickNewRepo - INFO: Clicked on element with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] locatorType: xpath
+07/11/2020 07:40:03 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_name'] and  locatorType: xpath
+07/11/2020 07:40:04 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_name'] locatorType: xpath
+07/11/2020 07:40:04 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_description'] and  locatorType: xpath
+07/11/2020 07:40:05 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_description'] locatorType: xpath
+07/11/2020 07:40:05 PM - CreateNewRepo - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/11/2020 07:40:05 PM - CreateNewRepo - INFO: Element appeared on the web page
+07/11/2020 07:40:05 PM - CreateNewRepo - INFO: Element found with locator: //button[@class='btn btn-primary first-in-line'] and  locatorType: xpath
+07/11/2020 07:40:08 PM - CreateNewRepo - INFO: Clicked on element with locator: //button[@class='btn btn-primary first-in-line'] locatorType: xpath
+07/11/2020 07:40:08 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 07:40:09 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 07:40:09 PM - ToolbarNav - INFO: Element found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 07:40:10 PM - ToolbarNav - INFO: Clicked on element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 07:40:10 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 07:40:10 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 07:40:10 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 07:40:11 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 07:40:11 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 07:40:13 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 07:40:13 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='js-issue-title'] and  locatorType: xpath
+07/11/2020 07:40:13 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 07:40:13 PM - CreateNewIssue - INFO: The text is :: 'git_title262815'
+07/11/2020 07:40:13 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='gh-header-number'] and  locatorType: xpath
+07/11/2020 07:40:13 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 07:40:13 PM - CreateNewIssue - INFO: The text is :: '#1'
+07/11/2020 07:40:13 PM - CreateNewIssue - INFO: Element found with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] and  locatorType: xpath
+07/11/2020 07:40:15 PM - CreateNewIssue - INFO: Clicked on element with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] locatorType: xpath
+07/11/2020 07:40:15 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 07:40:15 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 07:40:15 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 07:40:15 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 07:40:15 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 07:40:17 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 07:40:17 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 07:40:17 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 07:40:17 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 07:40:18 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 07:40:18 PM - CreateNewIssue - INFO: Element found with locator: //span[contains(text(),'Code')] and  locatorType: xpath
+07/11/2020 07:40:18 PM - CreateNewIssue - INFO: Clicked on element with locator: //span[contains(text(),'Code')] locatorType: xpath
+07/11/2020 07:40:19 PM - CreateNewIssue - INFO: Element found with locator: // a[contains(text(), 'creating a new file')] and  locatorType: xpath
+07/11/2020 07:40:20 PM - CreateNewIssue - INFO: Clicked on element with locator: // a[contains(text(), 'creating a new file')] locatorType: xpath
+07/11/2020 07:40:20 PM - CreateNewIssue - INFO: Element found with locator: //input[@placeholder='Name your file…'] and  locatorType: xpath
+07/11/2020 07:40:20 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@placeholder='Name your file…'] locatorType: xpath
+07/11/2020 07:40:20 PM - CreateNewIssue - INFO: Element found with locator: //button[@id='submit-file'] and  locatorType: xpath
+07/11/2020 07:40:22 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@id='submit-file'] locatorType: xpath
+07/11/2020 07:40:24 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 07:40:25 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 07:40:25 PM - CreateNewIssue - INFO: Element found with locator: /html//a[@id='issue_1_link'] and  locatorType: xpath
+07/11/2020 07:40:26 PM - CreateNewIssue - INFO: Clicked on element with locator: /html//a[@id='issue_1_link'] locatorType: xpath
+07/11/2020 07:40:26 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 07:40:26 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 07:40:26 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 07:40:26 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 07:40:27 PM - CreateNewIssue - INFO: Element found with locator: //a[@class='issue-link js-issue-link'] and  locatorType: xpath
+07/11/2020 07:40:28 PM - CreateNewIssue - INFO: Clicked on element with locator: //a[@class='issue-link js-issue-link'] locatorType: xpath
+07/11/2020 07:40:28 PM - CreateNewRepo - INFO: Element found with locator: //span[contains(text(),'Settings')] and  locatorType: xpath
+07/11/2020 07:40:28 PM - CreateNewRepo - INFO: Clicked on element with locator: //span[contains(text(),'Settings')] locatorType: xpath
+07/11/2020 07:40:30 PM - CreateNewRepo - INFO: Element found with locator: //summary[contains(text(),'Delete this repository')] and  locatorType: xpath
+07/11/2020 07:40:30 PM - CreateNewRepo - INFO: Clicked on element with locator: //summary[contains(text(),'Delete this repository')] locatorType: xpath
+07/11/2020 07:40:30 PM - CreateNewRepo - INFO: Element found with locator: //details-dialog[contains(@class,'Box Box--overlay d-flex flex-column anim-fade-in fast')]//p[2]//strong[1] and  locatorType: xpath
+07/11/2020 07:40:30 PM - CreateNewRepo - INFO: Getting text on element :: 
+07/11/2020 07:40:30 PM - CreateNewRepo - INFO: The text is :: 'PandeyAashish/git_demo43064'
+07/11/2020 07:40:30 PM - CreateNewRepo - INFO: Element found with locator: //div[contains(@class,'Box-body overflow-auto')]//input[contains(@name,'verify')] and  locatorType: xpath
+07/11/2020 07:40:30 PM - CreateNewRepo - INFO: Sent data on element with locator: //div[contains(@class,'Box-body overflow-auto')]//input[contains(@name,'verify')] locatorType: xpath
+07/11/2020 07:40:30 PM - CreateNewRepo - INFO: Element found with locator: //button[contains(text(),'I understand the consequences, delete this reposit')] and  locatorType: xpath
+07/11/2020 07:40:32 PM - CreateNewRepo - INFO: Clicked on element with locator: //button[contains(text(),'I understand the consequences, delete this reposit')] locatorType: xpath
+07/11/2020 07:40:35 PM - CreateNewRepo - INFO: Element not found with locator: //input[@id='sudo_password'] and  locatorType: xpath
+07/11/2020 07:40:35 PM - CreateNewRepo - INFO: Cannot send data on the element with locator: //input[@id='sudo_password'] locatorType: xpath
+07/11/2020 07:40:38 PM - CreateNewRepo - INFO: Element not found with locator: //button[@class='btn btn-block btn-primary'] and  locatorType: xpath
+07/11/2020 07:40:38 PM - CreateNewRepo - INFO: Cannot click on the element with locator: //button[@class='btn btn-block btn-primary'] locatorType: xpath
+07/11/2020 07:41:08 PM - LoginPage - INFO: Element found with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] and  locatorType: xpath
+07/11/2020 07:41:08 PM - LoginPage - INFO: Clicked on element with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] locatorType: xpath
+07/11/2020 07:41:08 PM - LoginPage - INFO: Element found with locator: //input[@id='login_field'] and  locatorType: xpath
+07/11/2020 07:41:08 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='login_field'] locatorType: xpath
+07/11/2020 07:41:08 PM - LoginPage - INFO: Element found with locator: //input[@id='password'] and  locatorType: xpath
+07/11/2020 07:41:08 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='password'] locatorType: xpath
+07/11/2020 07:41:08 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/11/2020 07:41:10 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/11/2020 07:41:10 PM - ClickNewRepo - INFO: Element found with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] and  locatorType: xpath
+07/11/2020 07:41:11 PM - ClickNewRepo - INFO: Clicked on element with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] locatorType: xpath
+07/11/2020 07:41:11 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_name'] and  locatorType: xpath
+07/11/2020 07:41:12 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_name'] locatorType: xpath
+07/11/2020 07:41:12 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_description'] and  locatorType: xpath
+07/11/2020 07:41:12 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_description'] locatorType: xpath
+07/11/2020 07:41:12 PM - CreateNewRepo - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/11/2020 07:41:12 PM - CreateNewRepo - INFO: Element appeared on the web page
+07/11/2020 07:41:12 PM - CreateNewRepo - INFO: Element found with locator: //button[@class='btn btn-primary first-in-line'] and  locatorType: xpath
+07/11/2020 07:41:14 PM - CreateNewRepo - INFO: Clicked on element with locator: //button[@class='btn btn-primary first-in-line'] locatorType: xpath
+07/11/2020 07:41:14 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 07:41:15 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 07:41:15 PM - ToolbarNav - INFO: Element found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 07:41:17 PM - ToolbarNav - INFO: Clicked on element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 07:41:17 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 07:41:17 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 07:41:17 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 07:41:18 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 07:41:18 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 07:41:19 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 07:41:19 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='js-issue-title'] and  locatorType: xpath
+07/11/2020 07:41:19 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 07:41:19 PM - CreateNewIssue - INFO: The text is :: 'git_title780689'
+07/11/2020 07:41:19 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='gh-header-number'] and  locatorType: xpath
+07/11/2020 07:41:19 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 07:41:19 PM - CreateNewIssue - INFO: The text is :: '#1'
+07/11/2020 07:41:19 PM - CreateNewIssue - INFO: Element found with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] and  locatorType: xpath
+07/11/2020 07:41:21 PM - CreateNewIssue - INFO: Clicked on element with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] locatorType: xpath
+07/11/2020 07:41:21 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 07:41:21 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 07:41:21 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 07:41:21 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 07:41:21 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 07:41:23 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 07:41:23 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 07:41:23 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 07:41:23 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 07:41:23 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 07:41:23 PM - CreateNewIssue - INFO: Element found with locator: //span[contains(text(),'Code')] and  locatorType: xpath
+07/11/2020 07:41:23 PM - CreateNewIssue - INFO: Clicked on element with locator: //span[contains(text(),'Code')] locatorType: xpath
+07/11/2020 07:41:24 PM - CreateNewIssue - INFO: Element found with locator: // a[contains(text(), 'creating a new file')] and  locatorType: xpath
+07/11/2020 07:41:25 PM - CreateNewIssue - INFO: Clicked on element with locator: // a[contains(text(), 'creating a new file')] locatorType: xpath
+07/11/2020 07:41:25 PM - CreateNewIssue - INFO: Element found with locator: //input[@placeholder='Name your file…'] and  locatorType: xpath
+07/11/2020 07:41:25 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@placeholder='Name your file…'] locatorType: xpath
+07/11/2020 07:41:25 PM - CreateNewIssue - INFO: Element found with locator: //button[@id='submit-file'] and  locatorType: xpath
+07/11/2020 07:41:27 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@id='submit-file'] locatorType: xpath
+07/11/2020 07:41:29 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 07:41:30 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 07:41:30 PM - CreateNewIssue - INFO: Element found with locator: /html//a[@id='issue_1_link'] and  locatorType: xpath
+07/11/2020 07:41:31 PM - CreateNewIssue - INFO: Clicked on element with locator: /html//a[@id='issue_1_link'] locatorType: xpath
+07/11/2020 07:41:31 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 07:41:31 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 07:41:31 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 07:41:31 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 07:41:32 PM - CreateNewIssue - INFO: Element found with locator: //a[@class='issue-link js-issue-link'] and  locatorType: xpath
+07/11/2020 07:41:33 PM - CreateNewIssue - INFO: Clicked on element with locator: //a[@class='issue-link js-issue-link'] locatorType: xpath
+07/11/2020 07:41:33 PM - CreateNewRepo - INFO: Element found with locator: //span[contains(text(),'Settings')] and  locatorType: xpath
+07/11/2020 07:41:33 PM - CreateNewRepo - INFO: Clicked on element with locator: //span[contains(text(),'Settings')] locatorType: xpath
+07/11/2020 07:41:35 PM - CreateNewRepo - INFO: Element found with locator: //summary[contains(text(),'Delete this repository')] and  locatorType: xpath
+07/11/2020 07:41:35 PM - CreateNewRepo - INFO: Clicked on element with locator: //summary[contains(text(),'Delete this repository')] locatorType: xpath
+07/11/2020 07:41:35 PM - CreateNewRepo - INFO: Element found with locator: //details-dialog[contains(@class,'Box Box--overlay d-flex flex-column anim-fade-in fast')]//p[2]//strong[1] and  locatorType: xpath
+07/11/2020 07:41:35 PM - CreateNewRepo - INFO: Getting text on element :: 
+07/11/2020 07:41:35 PM - CreateNewRepo - INFO: The text is :: 'PandeyAashish/git_demo924603'
+07/11/2020 07:41:35 PM - CreateNewRepo - INFO: Element found with locator: //div[contains(@class,'Box-body overflow-auto')]//input[contains(@name,'verify')] and  locatorType: xpath
+07/11/2020 07:41:35 PM - CreateNewRepo - INFO: Sent data on element with locator: //div[contains(@class,'Box-body overflow-auto')]//input[contains(@name,'verify')] locatorType: xpath
+07/11/2020 07:41:35 PM - CreateNewRepo - INFO: Element found with locator: //button[contains(text(),'I understand the consequences, delete this reposit')] and  locatorType: xpath
+07/11/2020 07:41:37 PM - CreateNewRepo - INFO: Clicked on element with locator: //button[contains(text(),'I understand the consequences, delete this reposit')] locatorType: xpath
+07/11/2020 07:41:40 PM - CreateNewRepo - INFO: Element not found with locator: //input[@id='sudo_password'] and  locatorType: xpath
+07/11/2020 07:41:40 PM - CreateNewRepo - INFO: Cannot send data on the element with locator: //input[@id='sudo_password'] locatorType: xpath
+07/11/2020 07:41:43 PM - CreateNewRepo - INFO: Element not found with locator: //button[@class='btn btn-block btn-primary'] and  locatorType: xpath
+07/11/2020 07:41:43 PM - CreateNewRepo - INFO: Cannot click on the element with locator: //button[@class='btn btn-block btn-primary'] locatorType: xpath
+07/11/2020 07:44:52 PM - LoginPage - INFO: Element found with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] and  locatorType: xpath
+07/11/2020 07:44:53 PM - LoginPage - INFO: Clicked on element with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] locatorType: xpath
+07/11/2020 07:44:53 PM - LoginPage - INFO: Element found with locator: //input[@id='login_field'] and  locatorType: xpath
+07/11/2020 07:44:53 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='login_field'] locatorType: xpath
+07/11/2020 07:44:53 PM - LoginPage - INFO: Element found with locator: //input[@id='password'] and  locatorType: xpath
+07/11/2020 07:44:53 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='password'] locatorType: xpath
+07/11/2020 07:44:53 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/11/2020 07:44:55 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/11/2020 07:44:55 PM - ClickNewRepo - INFO: Element found with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] and  locatorType: xpath
+07/11/2020 07:44:56 PM - ClickNewRepo - INFO: Clicked on element with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] locatorType: xpath
+07/11/2020 07:44:56 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_name'] and  locatorType: xpath
+07/11/2020 07:44:57 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_name'] locatorType: xpath
+07/11/2020 07:44:57 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_description'] and  locatorType: xpath
+07/11/2020 07:44:57 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_description'] locatorType: xpath
+07/11/2020 07:44:57 PM - CreateNewRepo - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/11/2020 07:44:57 PM - CreateNewRepo - INFO: Element appeared on the web page
+07/11/2020 07:44:57 PM - CreateNewRepo - INFO: Element found with locator: //button[@class='btn btn-primary first-in-line'] and  locatorType: xpath
+07/11/2020 07:45:00 PM - CreateNewRepo - INFO: Clicked on element with locator: //button[@class='btn btn-primary first-in-line'] locatorType: xpath
+07/11/2020 07:45:00 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 07:45:01 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 07:45:01 PM - ToolbarNav - INFO: Element found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 07:45:02 PM - ToolbarNav - INFO: Clicked on element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 07:45:02 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 07:45:02 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 07:45:02 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 07:45:02 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 07:45:02 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 07:45:05 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 07:45:05 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='js-issue-title'] and  locatorType: xpath
+07/11/2020 07:45:05 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 07:45:05 PM - CreateNewIssue - INFO: The text is :: 'git_title584940'
+07/11/2020 07:45:05 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='gh-header-number'] and  locatorType: xpath
+07/11/2020 07:45:05 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 07:45:05 PM - CreateNewIssue - INFO: The text is :: '#1'
+07/11/2020 07:45:05 PM - CreateNewIssue - INFO: Element found with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] and  locatorType: xpath
+07/11/2020 07:45:06 PM - CreateNewIssue - INFO: Clicked on element with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] locatorType: xpath
+07/11/2020 07:45:06 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 07:45:06 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 07:45:06 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 07:45:06 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 07:45:06 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 07:45:09 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 07:45:09 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 07:45:09 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 07:45:09 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 07:45:09 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 07:45:09 PM - CreateNewIssue - INFO: Element found with locator: //span[contains(text(),'Code')] and  locatorType: xpath
+07/11/2020 07:45:09 PM - CreateNewIssue - INFO: Clicked on element with locator: //span[contains(text(),'Code')] locatorType: xpath
+07/11/2020 07:45:10 PM - CreateNewIssue - INFO: Element found with locator: // a[contains(text(), 'creating a new file')] and  locatorType: xpath
+07/11/2020 07:45:11 PM - CreateNewIssue - INFO: Clicked on element with locator: // a[contains(text(), 'creating a new file')] locatorType: xpath
+07/11/2020 07:45:11 PM - CreateNewIssue - INFO: Element found with locator: //input[@placeholder='Name your file…'] and  locatorType: xpath
+07/11/2020 07:45:11 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@placeholder='Name your file…'] locatorType: xpath
+07/11/2020 07:45:11 PM - CreateNewIssue - INFO: Element found with locator: //button[@id='submit-file'] and  locatorType: xpath
+07/11/2020 07:45:13 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@id='submit-file'] locatorType: xpath
+07/11/2020 07:45:15 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 07:45:16 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 07:45:16 PM - CreateNewIssue - INFO: Element found with locator: /html//a[@id='issue_1_link'] and  locatorType: xpath
+07/11/2020 07:45:18 PM - CreateNewIssue - INFO: Clicked on element with locator: /html//a[@id='issue_1_link'] locatorType: xpath
+07/11/2020 07:45:18 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 07:45:18 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 07:45:18 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 07:45:18 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 07:45:19 PM - CreateNewIssue - INFO: Element found with locator: //a[@class='issue-link js-issue-link'] and  locatorType: xpath
+07/11/2020 07:45:21 PM - CreateNewIssue - INFO: Clicked on element with locator: //a[@class='issue-link js-issue-link'] locatorType: xpath
+07/11/2020 07:45:21 PM - CreateNewRepo - INFO: Element found with locator: //span[contains(text(),'Settings')] and  locatorType: xpath
+07/11/2020 07:45:21 PM - CreateNewRepo - INFO: Clicked on element with locator: //span[contains(text(),'Settings')] locatorType: xpath
+07/11/2020 07:45:23 PM - CreateNewRepo - INFO: Element found with locator: //summary[contains(text(),'Delete this repository')] and  locatorType: xpath
+07/11/2020 07:45:23 PM - CreateNewRepo - INFO: Clicked on element with locator: //summary[contains(text(),'Delete this repository')] locatorType: xpath
+07/11/2020 07:45:23 PM - CreateNewRepo - INFO: Element found with locator: //details-dialog[contains(@class,'Box Box--overlay d-flex flex-column anim-fade-in fast')]//p[2]//strong[1] and  locatorType: xpath
+07/11/2020 07:45:23 PM - CreateNewRepo - INFO: Getting text on element :: 
+07/11/2020 07:45:23 PM - CreateNewRepo - INFO: The text is :: 'PandeyAashish/git_demo710763'
+07/11/2020 07:45:23 PM - CreateNewRepo - INFO: Element found with locator: //div[contains(@class,'Box-body overflow-auto')]//input[contains(@name,'verify')] and  locatorType: xpath
+07/11/2020 07:45:23 PM - CreateNewRepo - INFO: Sent data on element with locator: //div[contains(@class,'Box-body overflow-auto')]//input[contains(@name,'verify')] locatorType: xpath
+07/11/2020 07:45:23 PM - CreateNewRepo - INFO: Element found with locator: //button[contains(text(),'I understand the consequences, delete this reposit')] and  locatorType: xpath
+07/11/2020 07:45:24 PM - CreateNewRepo - INFO: Clicked on element with locator: //button[contains(text(),'I understand the consequences, delete this reposit')] locatorType: xpath
+07/11/2020 07:45:27 PM - CreateNewRepo - INFO: Element not present with locator: //input[@id='sudo_password'] locatorType: xpath
+07/11/2020 08:07:35 PM - LoginPage - INFO: Element found with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] and  locatorType: xpath
+07/11/2020 08:07:36 PM - LoginPage - INFO: Clicked on element with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] locatorType: xpath
+07/11/2020 08:07:36 PM - LoginPage - INFO: Element found with locator: //input[@id='login_field'] and  locatorType: xpath
+07/11/2020 08:07:36 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='login_field'] locatorType: xpath
+07/11/2020 08:07:36 PM - LoginPage - INFO: Element found with locator: //input[@id='password'] and  locatorType: xpath
+07/11/2020 08:07:36 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='password'] locatorType: xpath
+07/11/2020 08:07:36 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/11/2020 08:07:38 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/11/2020 08:07:38 PM - ClickNewRepo - INFO: Element found with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] and  locatorType: xpath
+07/11/2020 08:07:40 PM - ClickNewRepo - INFO: Clicked on element with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] locatorType: xpath
+07/11/2020 08:07:40 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_name'] and  locatorType: xpath
+07/11/2020 08:07:41 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_name'] locatorType: xpath
+07/11/2020 08:07:41 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_description'] and  locatorType: xpath
+07/11/2020 08:07:41 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_description'] locatorType: xpath
+07/11/2020 08:07:41 PM - CreateNewRepo - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/11/2020 08:07:42 PM - CreateNewRepo - INFO: Element appeared on the web page
+07/11/2020 08:07:42 PM - CreateNewRepo - INFO: Element found with locator: //button[@class='btn btn-primary first-in-line'] and  locatorType: xpath
+07/11/2020 08:07:44 PM - CreateNewRepo - INFO: Clicked on element with locator: //button[@class='btn btn-primary first-in-line'] locatorType: xpath
+07/11/2020 08:07:44 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 08:07:45 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 08:07:45 PM - ToolbarNav - INFO: Element found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 08:07:47 PM - ToolbarNav - INFO: Clicked on element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 08:07:47 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 08:07:47 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 08:07:47 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 08:07:47 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 08:07:47 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 08:07:50 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 08:07:50 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='js-issue-title'] and  locatorType: xpath
+07/11/2020 08:07:50 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 08:07:50 PM - CreateNewIssue - INFO: The text is :: 'git_title713717'
+07/11/2020 08:07:50 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='gh-header-number'] and  locatorType: xpath
+07/11/2020 08:07:50 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 08:07:50 PM - CreateNewIssue - INFO: The text is :: '#1'
+07/11/2020 08:07:50 PM - CreateNewIssue - INFO: Element found with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] and  locatorType: xpath
+07/11/2020 08:07:52 PM - CreateNewIssue - INFO: Clicked on element with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] locatorType: xpath
+07/11/2020 08:07:52 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 08:07:52 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 08:07:52 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 08:07:52 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 08:07:52 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 08:07:55 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 08:07:55 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 08:07:55 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 08:07:55 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 08:07:55 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 08:07:55 PM - CreateNewIssue - INFO: Element found with locator: //span[contains(text(),'Code')] and  locatorType: xpath
+07/11/2020 08:07:55 PM - CreateNewIssue - INFO: Clicked on element with locator: //span[contains(text(),'Code')] locatorType: xpath
+07/11/2020 08:07:56 PM - CreateNewIssue - INFO: Element found with locator: // a[contains(text(), 'creating a new file')] and  locatorType: xpath
+07/11/2020 08:08:00 PM - CreateNewIssue - INFO: Clicked on element with locator: // a[contains(text(), 'creating a new file')] locatorType: xpath
+07/11/2020 08:08:00 PM - CreateNewIssue - INFO: Element found with locator: //input[@placeholder='Name your file…'] and  locatorType: xpath
+07/11/2020 08:08:00 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@placeholder='Name your file…'] locatorType: xpath
+07/11/2020 08:08:00 PM - CreateNewIssue - INFO: Element found with locator: //button[@id='submit-file'] and  locatorType: xpath
+07/11/2020 08:08:02 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@id='submit-file'] locatorType: xpath
+07/11/2020 08:08:04 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 08:08:05 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 08:08:05 PM - CreateNewIssue - INFO: Element found with locator: /html//a[@id='issue_1_link'] and  locatorType: xpath
+07/11/2020 08:08:06 PM - CreateNewIssue - INFO: Clicked on element with locator: /html//a[@id='issue_1_link'] locatorType: xpath
+07/11/2020 08:08:06 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 08:08:07 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 08:08:07 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 08:08:07 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 08:08:08 PM - CreateNewIssue - INFO: Element found with locator: //a[@class='issue-link js-issue-link'] and  locatorType: xpath
+07/11/2020 08:08:09 PM - CreateNewIssue - INFO: Clicked on element with locator: //a[@class='issue-link js-issue-link'] locatorType: xpath
+07/11/2020 08:08:09 PM - CreateNewRepo - INFO: Element found with locator: //span[contains(text(),'Settings')] and  locatorType: xpath
+07/11/2020 08:08:09 PM - CreateNewRepo - INFO: Clicked on element with locator: //span[contains(text(),'Settings')] locatorType: xpath
+07/11/2020 08:08:11 PM - CreateNewRepo - INFO: Element found with locator: //summary[contains(text(),'Delete this repository')] and  locatorType: xpath
+07/11/2020 08:08:11 PM - CreateNewRepo - INFO: Clicked on element with locator: //summary[contains(text(),'Delete this repository')] locatorType: xpath
+07/11/2020 08:08:11 PM - CreateNewRepo - INFO: Element found with locator: //details-dialog[contains(@class,'Box Box--overlay d-flex flex-column anim-fade-in fast')]//p[2]//strong[1] and  locatorType: xpath
+07/11/2020 08:08:11 PM - CreateNewRepo - INFO: Getting text on element :: 
+07/11/2020 08:08:11 PM - CreateNewRepo - INFO: The text is :: 'PandeyAashish/git_demo566435'
+07/11/2020 08:08:11 PM - CreateNewRepo - INFO: Element found with locator: //div[contains(@class,'Box-body overflow-auto')]//input[contains(@name,'verify')] and  locatorType: xpath
+07/11/2020 08:08:11 PM - CreateNewRepo - INFO: Sent data on element with locator: //div[contains(@class,'Box-body overflow-auto')]//input[contains(@name,'verify')] locatorType: xpath
+07/11/2020 08:08:12 PM - CreateNewRepo - INFO: Element found with locator: //button[contains(text(),'I understand the consequences, delete this reposit')] and  locatorType: xpath
+07/11/2020 08:08:13 PM - CreateNewRepo - INFO: Clicked on element with locator: //button[contains(text(),'I understand the consequences, delete this reposit')] locatorType: xpath
+07/11/2020 08:08:16 PM - CreateNewRepo - INFO: Element not present with locator: //input[@id='sudo_password'] locatorType: xpath
+07/11/2020 08:17:37 PM - LoginPage - INFO: Element not found with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] and  locatorType: xpath
+07/11/2020 08:17:37 PM - LoginPage - INFO: Cannot click on the element with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] locatorType: xpath
+07/11/2020 08:17:37 PM - LoginPage - INFO: Element not found with locator: //input[@id='login_field'] and  locatorType: xpath
+07/11/2020 08:17:37 PM - LoginPage - INFO: Cannot send data on the element with locator: //input[@id='login_field'] locatorType: xpath
+07/11/2020 08:17:37 PM - LoginPage - INFO: Element not found with locator: //input[@id='password'] and  locatorType: xpath
+07/11/2020 08:17:37 PM - LoginPage - INFO: Cannot send data on the element with locator: //input[@id='password'] locatorType: xpath
+07/11/2020 08:17:37 PM - LoginPage - INFO: Element not found with locator: //input[@name='commit'] and  locatorType: xpath
+07/11/2020 08:17:37 PM - LoginPage - INFO: Cannot click on the element with locator: //input[@name='commit'] locatorType: xpath
+07/11/2020 08:17:37 PM - ClickNewRepo - INFO: Element not found with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] and  locatorType: xpath
+07/11/2020 08:17:37 PM - ClickNewRepo - INFO: Cannot click on the element with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] locatorType: xpath
+07/11/2020 08:17:37 PM - CreateNewRepo - INFO: Element not found with locator: //input[@id='repository_name'] and  locatorType: xpath
+07/11/2020 08:17:37 PM - CreateNewRepo - INFO: Cannot send data on the element with locator: //input[@id='repository_name'] locatorType: xpath
+07/11/2020 08:17:37 PM - CreateNewRepo - INFO: Element not found with locator: //input[@id='repository_description'] and  locatorType: xpath
+07/11/2020 08:17:37 PM - CreateNewRepo - INFO: Cannot send data on the element with locator: //input[@id='repository_description'] locatorType: xpath
+07/11/2020 08:17:37 PM - ToolbarNav - INFO: Element not found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 08:17:37 PM - ToolbarNav - INFO: Cannot click on the element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 08:17:37 PM - ToolbarNav - INFO: Element not found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 08:17:37 PM - ToolbarNav - INFO: Cannot click on the element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 08:17:37 PM - CreateNewIssue - INFO: Element not found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 08:17:37 PM - CreateNewIssue - INFO: Cannot send data on the element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 08:17:37 PM - CreateNewIssue - INFO: Element not found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 08:17:37 PM - CreateNewIssue - INFO: Cannot send data on the element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 08:17:37 PM - CreateNewIssue - INFO: Element not found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 08:17:37 PM - CreateNewIssue - INFO: Cannot click on the element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 08:17:37 PM - CreateNewIssue - INFO: Element not found with locator: //span[@class='js-issue-title'] and  locatorType: xpath
+07/11/2020 08:17:37 PM - CreateNewIssue - ERROR: Failed to get text on element 
+07/11/2020 08:17:37 PM - CreateNewIssue - INFO: Element not found with locator: //span[@class='gh-header-number'] and  locatorType: xpath
+07/11/2020 08:17:38 PM - CreateNewIssue - ERROR: Failed to get text on element 
+07/11/2020 08:17:38 PM - CreateNewIssue - INFO: Element not found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 08:17:38 PM - CreateNewIssue - INFO: Cannot send data on the element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 08:17:38 PM - CreateNewIssue - INFO: Element not found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 08:17:38 PM - CreateNewIssue - INFO: Cannot click on the element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 08:17:38 PM - CreateNewIssue - INFO: Element not found with locator: //span[contains(text(),'Code')] and  locatorType: xpath
+07/11/2020 08:17:38 PM - CreateNewIssue - INFO: Cannot click on the element with locator: //span[contains(text(),'Code')] locatorType: xpath
+07/11/2020 08:17:38 PM - CreateNewIssue - INFO: Element not found with locator: // a[contains(text(), 'creating a new file')] and  locatorType: xpath
+07/11/2020 08:17:38 PM - CreateNewIssue - INFO: Cannot click on the element with locator: // a[contains(text(), 'creating a new file')] locatorType: xpath
+07/11/2020 08:17:38 PM - CreateNewIssue - INFO: Element not found with locator: //input[@placeholder='Name your file…'] and  locatorType: xpath
+07/11/2020 08:17:38 PM - CreateNewIssue - INFO: Cannot send data on the element with locator: //input[@placeholder='Name your file…'] locatorType: xpath
+07/11/2020 08:17:40 PM - ToolbarNav - INFO: Element not found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 08:17:40 PM - ToolbarNav - INFO: Cannot click on the element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 08:17:40 PM - CreateNewIssue - INFO: Element not found with locator: /html//a[@id='issue_1_link'] and  locatorType: xpath
+07/11/2020 08:17:40 PM - CreateNewIssue - INFO: Cannot click on the element with locator: /html//a[@id='issue_1_link'] locatorType: xpath
+07/11/2020 08:17:40 PM - CreateNewIssue - INFO: Element not found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 08:17:40 PM - CreateNewIssue - INFO: Cannot send data on the element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 08:17:40 PM - CreateNewIssue - INFO: Element not found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 08:17:40 PM - CreateNewIssue - INFO: Cannot click on the element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 08:17:40 PM - CreateNewIssue - INFO: Element not found with locator: //a[@class='issue-link js-issue-link'] and  locatorType: xpath
+07/11/2020 08:17:40 PM - CreateNewIssue - INFO: Cannot click on the element with locator: //a[@class='issue-link js-issue-link'] locatorType: xpath
+07/11/2020 08:17:40 PM - CreateNewRepo - INFO: Element not found with locator: //span[contains(text(),'Settings')] and  locatorType: xpath
+07/11/2020 08:17:40 PM - CreateNewRepo - INFO: Cannot click on the element with locator: //span[contains(text(),'Settings')] locatorType: xpath
+07/11/2020 08:18:32 PM - LoginPage - INFO: Element found with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] and  locatorType: xpath
+07/11/2020 08:18:32 PM - LoginPage - INFO: Clicked on element with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] locatorType: xpath
+07/11/2020 08:18:32 PM - LoginPage - INFO: Element found with locator: //input[@id='login_field'] and  locatorType: xpath
+07/11/2020 08:18:32 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='login_field'] locatorType: xpath
+07/11/2020 08:18:32 PM - LoginPage - INFO: Element found with locator: //input[@id='password'] and  locatorType: xpath
+07/11/2020 08:18:32 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='password'] locatorType: xpath
+07/11/2020 08:18:32 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/11/2020 08:18:35 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/11/2020 08:18:35 PM - ClickNewRepo - INFO: Element found with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] and  locatorType: xpath
+07/11/2020 08:18:37 PM - ClickNewRepo - INFO: Clicked on element with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] locatorType: xpath
+07/11/2020 08:18:37 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_name'] and  locatorType: xpath
+07/11/2020 08:18:37 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_name'] locatorType: xpath
+07/11/2020 08:18:37 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_description'] and  locatorType: xpath
+07/11/2020 08:18:38 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_description'] locatorType: xpath
+07/11/2020 08:18:38 PM - CreateNewRepo - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/11/2020 08:18:38 PM - CreateNewRepo - INFO: Element appeared on the web page
+07/11/2020 08:18:38 PM - CreateNewRepo - INFO: Element found with locator: //button[@class='btn btn-primary first-in-line'] and  locatorType: xpath
+07/11/2020 08:18:41 PM - CreateNewRepo - INFO: Clicked on element with locator: //button[@class='btn btn-primary first-in-line'] locatorType: xpath
+07/11/2020 08:18:41 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 08:18:43 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 08:18:43 PM - ToolbarNav - INFO: Element found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 08:18:45 PM - ToolbarNav - INFO: Clicked on element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 08:18:45 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 08:18:45 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 08:18:45 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 08:18:45 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 08:18:45 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 08:18:48 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 08:18:48 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='js-issue-title'] and  locatorType: xpath
+07/11/2020 08:18:48 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 08:18:48 PM - CreateNewIssue - INFO: The text is :: 'git_title488394'
+07/11/2020 08:18:48 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='gh-header-number'] and  locatorType: xpath
+07/11/2020 08:18:48 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 08:18:48 PM - CreateNewIssue - INFO: The text is :: '#1'
+07/11/2020 08:18:48 PM - CreateNewIssue - INFO: Element found with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] and  locatorType: xpath
+07/11/2020 08:18:49 PM - CreateNewIssue - INFO: Clicked on element with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] locatorType: xpath
+07/11/2020 08:18:49 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 08:18:50 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 08:18:50 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 08:18:50 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 08:18:50 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 08:18:52 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 08:18:52 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 08:18:52 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 08:18:52 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 08:18:53 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 08:18:53 PM - CreateNewIssue - INFO: Element found with locator: //span[contains(text(),'Code')] and  locatorType: xpath
+07/11/2020 08:18:53 PM - CreateNewIssue - INFO: Clicked on element with locator: //span[contains(text(),'Code')] locatorType: xpath
+07/11/2020 08:18:54 PM - CreateNewIssue - INFO: Element found with locator: // a[contains(text(), 'creating a new file')] and  locatorType: xpath
+07/11/2020 08:18:56 PM - CreateNewIssue - INFO: Clicked on element with locator: // a[contains(text(), 'creating a new file')] locatorType: xpath
+07/11/2020 08:18:56 PM - CreateNewIssue - INFO: Element found with locator: //input[@placeholder='Name your file…'] and  locatorType: xpath
+07/11/2020 08:18:56 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@placeholder='Name your file…'] locatorType: xpath
+07/11/2020 08:18:56 PM - CreateNewIssue - INFO: Element found with locator: //button[@id='submit-file'] and  locatorType: xpath
+07/11/2020 08:18:59 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@id='submit-file'] locatorType: xpath
+07/11/2020 08:19:01 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 08:19:02 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 08:19:02 PM - CreateNewIssue - INFO: Element found with locator: /html//a[@id='issue_1_link'] and  locatorType: xpath
+07/11/2020 08:19:04 PM - CreateNewIssue - INFO: Clicked on element with locator: /html//a[@id='issue_1_link'] locatorType: xpath
+07/11/2020 08:19:04 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 08:19:04 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 08:19:04 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 08:19:05 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 08:19:06 PM - CreateNewIssue - INFO: Element found with locator: //a[@class='issue-link js-issue-link'] and  locatorType: xpath
+07/11/2020 08:19:09 PM - CreateNewIssue - INFO: Clicked on element with locator: //a[@class='issue-link js-issue-link'] locatorType: xpath
+07/11/2020 08:19:09 PM - CreateNewRepo - INFO: Element found with locator: //span[contains(text(),'Settings')] and  locatorType: xpath
+07/11/2020 08:19:09 PM - CreateNewRepo - INFO: Clicked on element with locator: //span[contains(text(),'Settings')] locatorType: xpath
+07/11/2020 08:19:12 PM - CreateNewRepo - INFO: Element found with locator: //summary[contains(text(),'Delete this repository')] and  locatorType: xpath
+07/11/2020 08:19:12 PM - CreateNewRepo - INFO: Clicked on element with locator: //summary[contains(text(),'Delete this repository')] locatorType: xpath
+07/11/2020 08:19:12 PM - CreateNewRepo - INFO: Element found with locator: //details-dialog[contains(@class,'Box Box--overlay d-flex flex-column anim-fade-in fast')]//p[2]//strong[1] and  locatorType: xpath
+07/11/2020 08:19:12 PM - CreateNewRepo - INFO: Getting text on element :: 
+07/11/2020 08:19:12 PM - CreateNewRepo - INFO: The text is :: 'PandeyAashish/git_demo813653'
+07/11/2020 08:19:12 PM - CreateNewRepo - INFO: Element found with locator: //div[contains(@class,'Box-body overflow-auto')]//input[contains(@name,'verify')] and  locatorType: xpath
+07/11/2020 08:19:12 PM - CreateNewRepo - INFO: Sent data on element with locator: //div[contains(@class,'Box-body overflow-auto')]//input[contains(@name,'verify')] locatorType: xpath
+07/11/2020 08:19:12 PM - CreateNewRepo - INFO: Element found with locator: //button[contains(text(),'I understand the consequences, delete this reposit')] and  locatorType: xpath
+07/11/2020 08:19:15 PM - CreateNewRepo - INFO: Clicked on element with locator: //button[contains(text(),'I understand the consequences, delete this reposit')] locatorType: xpath
+07/11/2020 08:19:18 PM - CreateNewRepo - INFO: Element not present with locator: //input[@id='sudo_password'] locatorType: xpath
+07/11/2020 08:21:23 PM - LoginPage - INFO: Element found with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] and  locatorType: xpath
+07/11/2020 08:21:24 PM - LoginPage - INFO: Clicked on element with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] locatorType: xpath
+07/11/2020 08:21:24 PM - LoginPage - INFO: Element found with locator: //input[@id='login_field'] and  locatorType: xpath
+07/11/2020 08:21:24 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='login_field'] locatorType: xpath
+07/11/2020 08:21:24 PM - LoginPage - INFO: Element found with locator: //input[@id='password'] and  locatorType: xpath
+07/11/2020 08:21:24 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='password'] locatorType: xpath
+07/11/2020 08:21:24 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/11/2020 08:21:25 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/11/2020 08:21:28 PM - ClickNewRepo - INFO: Element not found with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] and  locatorType: xpath
+07/11/2020 08:21:28 PM - ClickNewRepo - INFO: Cannot click on the element with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] locatorType: xpath
+07/11/2020 08:21:31 PM - CreateNewRepo - INFO: Element not found with locator: //input[@id='repository_name'] and  locatorType: xpath
+07/11/2020 08:21:31 PM - CreateNewRepo - INFO: Cannot send data on the element with locator: //input[@id='repository_name'] locatorType: xpath
+07/11/2020 08:21:35 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_description'] and  locatorType: xpath
+07/11/2020 08:21:35 PM - CreateNewRepo - INFO: Cannot send data on the element with locator: //input[@id='repository_description'] locatorType: xpath
+07/11/2020 08:22:40 PM - LoginPage - INFO: Element found with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] and  locatorType: xpath
+07/11/2020 08:22:41 PM - LoginPage - INFO: Clicked on element with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] locatorType: xpath
+07/11/2020 08:22:41 PM - LoginPage - INFO: Element found with locator: //input[@id='login_field'] and  locatorType: xpath
+07/11/2020 08:22:41 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='login_field'] locatorType: xpath
+07/11/2020 08:22:41 PM - LoginPage - INFO: Element found with locator: //input[@id='password'] and  locatorType: xpath
+07/11/2020 08:22:41 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='password'] locatorType: xpath
+07/11/2020 08:22:41 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/11/2020 08:22:42 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/11/2020 08:22:45 PM - ClickNewRepo - INFO: Element not found with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] and  locatorType: xpath
+07/11/2020 08:22:45 PM - ClickNewRepo - INFO: Cannot click on the element with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] locatorType: xpath
+07/11/2020 08:22:48 PM - CreateNewRepo - INFO: Element not found with locator: //input[@id='repository_name'] and  locatorType: xpath
+07/11/2020 08:22:48 PM - CreateNewRepo - INFO: Cannot send data on the element with locator: //input[@id='repository_name'] locatorType: xpath
+07/11/2020 08:22:51 PM - CreateNewRepo - INFO: Element not found with locator: //input[@id='repository_description'] and  locatorType: xpath
+07/11/2020 08:22:51 PM - CreateNewRepo - INFO: Cannot send data on the element with locator: //input[@id='repository_description'] locatorType: xpath
+07/11/2020 08:22:51 PM - CreateNewRepo - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/11/2020 08:23:01 PM - CreateNewRepo - INFO: Element not appeared on the web page
+07/11/2020 08:23:04 PM - CreateNewRepo - INFO: Element not found with locator: //button[@class='btn btn-primary first-in-line'] and  locatorType: xpath
+07/11/2020 08:23:04 PM - CreateNewRepo - INFO: Cannot click on the element with locator: //button[@class='btn btn-primary first-in-line'] locatorType: xpath
+07/11/2020 08:23:07 PM - ToolbarNav - INFO: Element not found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 08:23:07 PM - ToolbarNav - INFO: Cannot click on the element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 08:23:10 PM - ToolbarNav - INFO: Element not found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 08:23:10 PM - ToolbarNav - INFO: Cannot click on the element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 08:23:13 PM - CreateNewIssue - INFO: Element not found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 08:23:13 PM - CreateNewIssue - INFO: Cannot send data on the element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 08:23:16 PM - CreateNewIssue - INFO: Element not found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 08:23:16 PM - CreateNewIssue - INFO: Cannot send data on the element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 08:23:22 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 08:23:22 PM - CreateNewIssue - INFO: Cannot click on the element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 08:23:23 PM - CreateNewIssue - INFO: Element not found with locator: //span[@class='js-issue-title'] and  locatorType: xpath
+07/11/2020 08:23:23 PM - CreateNewIssue - ERROR: Failed to get text on element 
+07/11/2020 08:25:37 PM - LoginPage - INFO: Element found with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] and  locatorType: xpath
+07/11/2020 08:25:38 PM - LoginPage - INFO: Clicked on element with locator: /html//header[@role='banner']/div/div[2]//a[@href='/login'] locatorType: xpath
+07/11/2020 08:25:38 PM - LoginPage - INFO: Element found with locator: //input[@id='login_field'] and  locatorType: xpath
+07/11/2020 08:25:38 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='login_field'] locatorType: xpath
+07/11/2020 08:25:38 PM - LoginPage - INFO: Element found with locator: //input[@id='password'] and  locatorType: xpath
+07/11/2020 08:25:38 PM - LoginPage - INFO: Sent data on element with locator: //input[@id='password'] locatorType: xpath
+07/11/2020 08:25:38 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+07/11/2020 08:25:40 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+07/11/2020 08:25:40 PM - ClickNewRepo - INFO: Element found with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] and  locatorType: xpath
+07/11/2020 08:25:41 PM - ClickNewRepo - INFO: Clicked on element with locator: //aside//h2[contains(text(),'Repositories')]//a[1]//*[local-name()='svg'] locatorType: xpath
+07/11/2020 08:25:41 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_name'] and  locatorType: xpath
+07/11/2020 08:25:41 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_name'] locatorType: xpath
+07/11/2020 08:25:41 PM - CreateNewRepo - INFO: Element found with locator: //input[@id='repository_description'] and  locatorType: xpath
+07/11/2020 08:25:41 PM - CreateNewRepo - INFO: Sent data on element with locator: //input[@id='repository_description'] locatorType: xpath
+07/11/2020 08:25:41 PM - CreateNewRepo - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+07/11/2020 08:25:42 PM - CreateNewRepo - INFO: Element appeared on the web page
+07/11/2020 08:25:42 PM - CreateNewRepo - INFO: Element found with locator: //button[@class='btn btn-primary first-in-line'] and  locatorType: xpath
+07/11/2020 08:25:44 PM - CreateNewRepo - INFO: Clicked on element with locator: //button[@class='btn btn-primary first-in-line'] locatorType: xpath
+07/11/2020 08:25:44 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 08:25:45 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 08:25:45 PM - ToolbarNav - INFO: Element found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 08:25:47 PM - ToolbarNav - INFO: Clicked on element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 08:25:47 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 08:25:47 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 08:25:47 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 08:25:47 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 08:25:47 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 08:25:49 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 08:25:49 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='js-issue-title'] and  locatorType: xpath
+07/11/2020 08:25:49 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 08:25:49 PM - CreateNewIssue - INFO: The text is :: 'git_title490719'
+07/11/2020 08:25:49 PM - CreateNewIssue - INFO: Element found with locator: //span[@class='gh-header-number'] and  locatorType: xpath
+07/11/2020 08:25:49 PM - CreateNewIssue - INFO: Getting text on element :: 
+07/11/2020 08:25:49 PM - CreateNewIssue - INFO: The text is :: '#1'
+07/11/2020 08:25:49 PM - CreateNewIssue - INFO: Element found with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] and  locatorType: xpath
+07/11/2020 08:25:50 PM - CreateNewIssue - INFO: Clicked on element with locator: /html[1]/body[1]/div[4]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] locatorType: xpath
+07/11/2020 08:25:50 PM - CreateNewIssue - INFO: Element found with locator: //input[@id='issue_title'] and  locatorType: xpath
+07/11/2020 08:25:50 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@id='issue_title'] locatorType: xpath
+07/11/2020 08:25:50 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='issue_body'] and  locatorType: xpath
+07/11/2020 08:25:50 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='issue_body'] locatorType: xpath
+07/11/2020 08:25:50 PM - CreateNewIssue - INFO: Element found with locator: //button[@class='btn btn-primary'] and  locatorType: xpath
+07/11/2020 08:25:53 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@class='btn btn-primary'] locatorType: xpath
+07/11/2020 08:25:53 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 08:25:53 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 08:25:53 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 08:25:53 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 08:25:53 PM - CreateNewIssue - INFO: Element found with locator: //span[contains(text(),'Code')] and  locatorType: xpath
+07/11/2020 08:25:53 PM - CreateNewIssue - INFO: Clicked on element with locator: //span[contains(text(),'Code')] locatorType: xpath
+07/11/2020 08:25:54 PM - CreateNewIssue - INFO: Element found with locator: // a[contains(text(), 'creating a new file')] and  locatorType: xpath
+07/11/2020 08:25:54 PM - CreateNewIssue - INFO: Clicked on element with locator: // a[contains(text(), 'creating a new file')] locatorType: xpath
+07/11/2020 08:25:55 PM - CreateNewIssue - INFO: Element found with locator: //input[@placeholder='Name your file…'] and  locatorType: xpath
+07/11/2020 08:25:55 PM - CreateNewIssue - INFO: Sent data on element with locator: //input[@placeholder='Name your file…'] locatorType: xpath
+07/11/2020 08:25:55 PM - CreateNewIssue - INFO: Element found with locator: //button[@id='submit-file'] and  locatorType: xpath
+07/11/2020 08:25:57 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[@id='submit-file'] locatorType: xpath
+07/11/2020 08:25:59 PM - ToolbarNav - INFO: Element found with locator: //span[contains(text(),'Issues')] and  locatorType: xpath
+07/11/2020 08:26:00 PM - ToolbarNav - INFO: Clicked on element with locator: //span[contains(text(),'Issues')] locatorType: xpath
+07/11/2020 08:26:00 PM - CreateNewIssue - INFO: Element found with locator: /html//a[@id='issue_1_link'] and  locatorType: xpath
+07/11/2020 08:26:01 PM - CreateNewIssue - INFO: Clicked on element with locator: /html//a[@id='issue_1_link'] locatorType: xpath
+07/11/2020 08:26:01 PM - CreateNewIssue - INFO: Element found with locator: //textarea[@id='new_comment_field'] and  locatorType: xpath
+07/11/2020 08:26:01 PM - CreateNewIssue - INFO: Sent data on element with locator: //textarea[@id='new_comment_field'] locatorType: xpath
+07/11/2020 08:26:01 PM - CreateNewIssue - INFO: Element found with locator: //button[contains(text(),'Comment')] and  locatorType: xpath
+07/11/2020 08:26:01 PM - CreateNewIssue - INFO: Clicked on element with locator: //button[contains(text(),'Comment')] locatorType: xpath
+07/11/2020 08:26:02 PM - CreateNewIssue - INFO: Element found with locator: //a[@class='issue-link js-issue-link'] and  locatorType: xpath
+07/11/2020 08:26:03 PM - CreateNewIssue - INFO: Clicked on element with locator: //a[@class='issue-link js-issue-link'] locatorType: xpath
+07/11/2020 08:26:03 PM - CreateNewRepo - INFO: Element found with locator: //span[contains(text(),'Settings')] and  locatorType: xpath
+07/11/2020 08:26:03 PM - CreateNewRepo - INFO: Clicked on element with locator: //span[contains(text(),'Settings')] locatorType: xpath
+07/11/2020 08:26:05 PM - CreateNewRepo - INFO: Element found with locator: //summary[contains(text(),'Delete this repository')] and  locatorType: xpath
+07/11/2020 08:26:05 PM - CreateNewRepo - INFO: Clicked on element with locator: //summary[contains(text(),'Delete this repository')] locatorType: xpath
+07/11/2020 08:26:05 PM - CreateNewRepo - INFO: Element found with locator: //details-dialog[contains(@class,'Box Box--overlay d-flex flex-column anim-fade-in fast')]//p[2]//strong[1] and  locatorType: xpath
+07/11/2020 08:26:05 PM - CreateNewRepo - INFO: Getting text on element :: 
+07/11/2020 08:26:05 PM - CreateNewRepo - INFO: The text is :: 'PandeyAashish/git_demo76966'
+07/11/2020 08:26:05 PM - CreateNewRepo - INFO: Element found with locator: //div[contains(@class,'Box-body overflow-auto')]//input[contains(@name,'verify')] and  locatorType: xpath
+07/11/2020 08:26:05 PM - CreateNewRepo - INFO: Sent data on element with locator: //div[contains(@class,'Box-body overflow-auto')]//input[contains(@name,'verify')] locatorType: xpath
+07/11/2020 08:26:05 PM - CreateNewRepo - INFO: Element found with locator: //button[contains(text(),'I understand the consequences, delete this reposit')] and  locatorType: xpath
+07/11/2020 08:26:07 PM - CreateNewRepo - INFO: Clicked on element with locator: //button[contains(text(),'I understand the consequences, delete this reposit')] locatorType: xpath
+07/11/2020 08:26:10 PM - CreateNewRepo - INFO: Element not present with locator: //input[@id='sudo_password'] locatorType: xpath
